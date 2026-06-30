@@ -1,4 +1,5 @@
 import { useTrip } from "@/context/TripContext";
+import { exportItineraryPDF } from "@/lib/exportPDF";
 
 type Trip = {
   destination?: {
@@ -29,7 +30,21 @@ export default function TripSummary() {
   const { trip } = useTrip();
 
   return (
-    <div className="p-4 space-y-4">
+    <div id="itinerary-pdf" className="p-4 space-y-4">
+
+      <div className="mb-4 flex items-center justify-between">
+        <h2 className="text-xl font-semibold">
+          📌 Trip Summary
+        </h2>
+
+        <button
+          id="export-btn"
+          onClick={() => exportItineraryPDF("itinerary-pdf")}
+          className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-700"
+        >
+          📄 Export PDF
+        </button>
+      </div>
 
       {/* Four Summary Cards */}
       <div className="grid grid-cols-2 gap-3">
