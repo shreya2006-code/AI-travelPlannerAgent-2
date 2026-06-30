@@ -1,0 +1,622 @@
+﻿attraction_id,place_id,attraction_name,category,opening_time,closing_time,entry_fee,time_required,rating,description
+A0001,P001,Taj Mahal,Historical,6:00,18:30,1100,3 hours,4.9,Iconic white marble mausoleum built by Emperor Shah Jahan for his wife.
+A0002,P001,Agra Fort,Fort,6:00,18:00,650,2 hours,4.7,Massive UNESCO-listed Mughal fort housing palaces courtyards and mosques.
+A0003,P001,Fatehpur Sikri,Historical,6:00,18:00,610,3 hours,4.6,Abandoned Mughal capital city with stunning sandstone architecture.
+A0004,P001,Mehtab Bagh,Garden,6:00,18:00,300,1 hour,4.5,Moonlit garden offering spectacular sunset views of the Taj Mahal.
+A0005,P001,Itimad-ud-Daulah,Historical,6:00,18:00,310,1 hour,4.4,Delicate Mughal tomb often called the Baby Taj for its intricate inlay work.
+A0006,P001,Jama Masjid Agra,Religious,7:00,18:00,0,1 hour,4.4,One of India's largest mosques built by Shah Jahan in 1648.
+A0007,P001,Akbar's Tomb Sikandra,Historical,6:00,18:00,310,1 hour,4.4,Grand sandstone and marble tomb of Mughal Emperor Akbar near Agra.
+A0008,P001,Kinari Bazaar,Market,10:00,21:00,0,1 hour,4.3,Bustling old market famous for wedding accessories zari and marble souvenirs.
+A0009,P002,Amber Fort,Fort,8:00,17:30,700,3 hours,4.8,Majestic hilltop fort overlooking Maota Lake with stunning Rajput architecture.
+A0010,P002,City Palace Jaipur,Palace,9:30,17:00,700,2 hours,4.7,Royal palace complex housing museums courtyards and Diwan-i-Khas.
+A0011,P002,Hawa Mahal,Palace,9:00,17:00,200,1 hour,4.6,Iconic five-storey honeycomb facade palace built for royal women.
+A0012,P002,Jantar Mantar Jaipur,Historical,9:00,16:30,200,1 hour,4.5,UNESCO-listed astronomical observatory with massive stone instruments.
+A0013,P002,Nahargarh Fort,Fort,10:00,18:00,200,2 hours,4.5,Hilltop fort with panoramic views of Jaipur city and surrounding hills.
+A0014,P002,Jal Mahal,Palace,6:00,18:00,0,1 hour,4.4,Picturesque palace appearing to float in the middle of Man Sagar Lake.
+A0015,P002,Albert Hall Museum,Museum,9:00,17:00,150,2 hours,4.4,Oldest museum in Rajasthan showcasing art artifacts and Egyptian mummy.
+A0016,P002,Birla Mandir Jaipur,Temple,6:00,12:00,0,1 hour,4.4,Stunning white marble temple dedicated to Lord Vishnu and Goddess Lakshmi.
+A0017,P002,Johari Bazaar,Market,10:00,21:00,0,1 hour,4.3,Famous jewellery market in Jaipur known for gems textiles and handicrafts.
+A0018,P002,Sisodia Rani Garden,Garden,8:00,18:00,50,1 hour,4.2,Terraced Mughal-style garden built by Maharaja Sawai Jai Singh II.
+A0019,P003,Kashi Vishwanath Temple,Temple,3:00,23:00,0,2 hours,4.8,One of the most sacred Hindu temples dedicated to Lord Shiva in Varanasi.
+A0020,P003,Dashashwamedh Ghat,Religious,5:00,22:00,0,2 hours,4.8,Main ghat on the Ganges famous for spectacular daily Ganga Aarti ceremony.
+A0021,P003,Sarnath,Historical,9:00,17:00,40,2 hours,4.6,Sacred site where Buddha delivered his first sermon after enlightenment.
+A0022,P003,Manikarnika Ghat,Religious,0:00,23:59,0,1 hour,4.5,Ancient cremation ghat believed to offer liberation from cycle of rebirth.
+A0023,P003,Assi Ghat,Religious,5:00,21:00,0,1 hour,4.5,Peaceful southernmost ghat famous for morning rituals and yoga sessions.
+A0024,P003,Ramnagar Fort,Fort,10:00,17:00,15,2 hours,4.3,18th-century riverside fort housing a museum with vintage cars and weapons.
+A0025,P003,Bharat Kala Bhavan Museum,Museum,10:30,16:30,100,2 hours,4.4,BHU museum with rare miniature paintings textiles and archaeological artifacts.
+A0026,P003,Tulsi Manas Temple,Temple,5:30,12:00,0,1 hour,4.3,White marble temple built at the site where Tulsidas wrote Ramcharitmanas.
+A0027,P003,Sankat Mochan Hanuman Temple,Temple,5:00,22:00,0,1 hour,4.6,Beloved Hanuman temple founded by saint Tulsidas on the banks of Ganges.
+A0028,P004,Red Fort,Fort,9:30,16:30,600,2 hours,4.6,Magnificent Mughal red sandstone fort and UNESCO World Heritage Site in Delhi.
+A0029,P004,Qutub Minar,Historical,7:00,17:00,650,2 hours,4.6,UNESCO-listed 73-metre tall minaret and Iron Pillar complex from 12th century.
+A0030,P004,India Gate,Historical,0:00,23:59,0,1 hour,4.7,Iconic war memorial dedicated to soldiers who died in World War One.
+A0031,P004,Humayun's Tomb,Historical,6:00,18:00,600,2 hours,4.6,UNESCO-listed Mughal garden tomb and inspiration for the Taj Mahal.
+A0032,P004,Lotus Temple,Temple,9:00,17:30,0,1 hour,4.6,Stunning flower-shaped Bahai house of worship open to all religions.
+A0033,P004,Akshardham Temple Delhi,Temple,9:30,18:30,0,3 hours,4.8,Grand Hindu temple complex with exhibitions gardens and cultural shows.
+A0034,P004,National Museum Delhi,Museum,10:00,17:00,650,3 hours,4.5,India's largest museum showcasing artifacts spanning 5000 years of history.
+A0035,P004,Chandni Chowk,Market,9:00,21:00,0,2 hours,4.4,One of India's oldest and busiest markets in the heart of Old Delhi.
+A0036,P004,Jama Masjid Delhi,Religious,7:00,12:00,0,1 hour,4.5,India's largest mosque built by Shah Jahan accommodating 25000 worshippers.
+A0037,P004,Lodi Garden,Garden,6:00,20:00,0,1 hour,4.5,Historic garden housing 15th-century Lodi dynasty tombs amidst lush greenery.
+A0038,P005,Laxman Jhula,Religious,0:00,23:59,0,1 hour,4.6,Iconic iron suspension bridge across the Ganges with temples and ashrams.
+A0039,P005,Ram Jhula,Religious,0:00,23:59,0,1 hour,4.5,Sacred suspension bridge connecting Sivananda Ashram to Swarg Ashram.
+A0040,P005,Triveni Ghat,Religious,5:00,21:00,0,1 hour,4.6,Sacred bathing ghat famous for evening Ganga Aarti and spiritual ambience.
+A0041,P005,Neelkanth Mahadev Temple,Temple,6:00,18:00,0,2 hours,4.6,Sacred Shiva temple nestled in dense forests at 1330 metres altitude.
+A0042,P005,Beatles Ashram,Historical,8:00,18:00,600,2 hours,4.4,Abandoned ashram where the Beatles stayed in 1968 now a unique art space.
+A0043,P005,Rajaji National Park,Wildlife,6:00,18:00,150,Half Day,4.4,Tiger reserve near Rishikesh with elephants leopards and diverse bird species.
+A0044,P005,Parmarth Niketan Ashram,Religious,5:00,21:00,0,2 hours,4.7,One of India's largest ashrams hosting nightly Ganga Aarti and yoga.
+A0045,P005,Kunjapuri Temple,Temple,6:00,18:00,0,2 hours,4.5,Hilltop Devi temple offering breathtaking panoramic Himalayan sunrise views.
+A0046,P005,Shivpuri Beach,Adventure,7:00,18:00,0,2 hours,4.4,Popular riverside spot for white-water rafting and beach camping activities.
+A0047,P006,Solang Valley,Adventure,8:00,18:00,0,Half Day,4.7,Scenic valley famous for skiing paragliding and stunning snow-capped peaks.
+A0048,P006,Rohtang Pass,Viewpoint,8:00,17:00,0,Half Day,4.6,High-altitude mountain pass at 3978m offering dramatic snow and glacier views.
+A0049,P006,Hadimba Devi Temple,Temple,8:00,18:00,0,1 hour,4.6,Ancient wooden temple dedicated to Goddess Hadimba set in cedar forest.
+A0050,P006,Manu Temple Manali,Temple,7:00,19:00,0,1 hour,4.3,Ancient temple dedicated to sage Manu located in Old Manali village.
+A0051,P006,Vashisht Hot Springs,Religious,7:00,21:00,0,1 hour,4.4,Ancient natural sulphur hot springs with temples beside Beas River.
+A0052,P006,Great Himalayan National Park,Wildlife,7:00,17:00,200,Half Day,4.6,UNESCO World Heritage Site with diverse Himalayan flora fauna and glaciers.
+A0053,P006,Naggar Castle,Historical,8:00,18:00,100,1 hour,4.4,Medieval castle with valley views converted into a heritage hotel and museum.
+A0054,P006,Beas Kund Trek,Adventure,6:00,18:00,0,Half Day,4.6,Scenic trek to the glacial origin of river Beas with stunning mountain vistas.
+A0055,P006,Museum of Himachal Culture and Folk Art,Museum,9:00,17:00,50,1 hour,4.2,Museum displaying traditional Himachali costumes jewelry weapons and artifacts.
+A0056,P007,The Ridge Shimla,Viewpoint,0:00,23:59,0,1 hour,4.6,Central open space in Shimla offering panoramic Himalayan mountain views.
+A0057,P007,Mall Road Shimla,Market,9:00,22:00,0,2 hours,4.5,Famous promenade lined with shops restaurants and colonial-era buildings.
+A0058,P007,Christ Church Shimla,Historical,8:00,18:00,0,1 hour,4.5,Second oldest church in North India with stunning neo-Gothic architecture.
+A0059,P007,Jakhu Temple,Temple,5:00,20:00,0,2 hours,4.6,Ancient Hanuman temple atop Jakhu Hill with 33-metre statue and monkeys.
+A0060,P007,Kufri,Viewpoint,8:00,18:00,0,Half Day,4.4,Popular hill resort near Shimla known for skiing snow activities and views.
+A0061,P007,Shimla State Museum,Museum,10:00,13:30,30,2 hours,4.3,Colonial-era museum with Pahari miniatures sculptures coins and textiles.
+A0062,P007,Chadwick Falls,Nature,9:00,17:00,0,1 hour,4.3,Picturesque 67-metre waterfall surrounded by dense forest near Shimla.
+A0063,P007,Tara Devi Temple,Temple,7:00,18:00,0,1 hour,4.4,Hilltop temple dedicated to Goddess Tara offering sweeping valley views.
+A0064,P007,Green Valley Shimla,Nature,8:00,18:00,0,1 hour,4.4,Scenic spot on Shimla-Kufri road surrounded by lush pine and deodar forests.
+A0065,P008,Pangong Lake,Lake,0:00,23:59,0,Half Day,4.9,Stunning high-altitude lake stretching across India and China at 4350m.
+A0066,P008,Thiksey Monastery,Monastery,6:00,18:00,100,2 hours,4.8,Impressive 12-storey monastery resembling Lhasa's Potala Palace in structure.
+A0067,P008,Nubra Valley,Nature,0:00,23:59,0,Half Day,4.7,Double-humped Bactrian camel desert valley between Karakoram mountain ranges.
+A0068,P008,Leh Palace,Palace,7:00,16:00,100,2 hours,4.5,Ruined nine-storey palace overlooking Leh town built in 17th century.
+A0069,P008,Hemis Monastery,Monastery,8:00,13:00,100,2 hours,4.7,Largest monastery in Ladakh famous for Hemis festival and Thangka paintings.
+A0070,P008,Shanti Stupa,Religious,5:00,21:00,0,1 hour,4.7,White-domed Buddhist stupa on hilltop offering spectacular panoramic Leh views.
+A0071,P008,Magnetic Hill,Viewpoint,0:00,23:59,0,30 mins,4.3,Mysterious gravity-defying hill appearing to pull vehicles uphill on its own.
+A0072,P008,Diskit Monastery,Monastery,7:00,17:00,50,1 hour,4.6,Oldest monastery in Nubra Valley with giant Maitreya Buddha statue.
+A0073,P008,Khardung La Pass,Viewpoint,0:00,23:59,0,1 hour,4.6,One of world's highest motorable passes at 5359m with breathtaking views.
+A0074,P009,Har Ki Pauri,Religious,5:00,22:00,0,2 hours,4.8,Sacred ghat in Haridwar believed to bear Lord Vishnu's footprint on steps.
+A0075,P009,Mansa Devi Temple,Temple,5:00,21:00,0,2 hours,4.6,Hilltop temple dedicated to Goddess Mansa Devi accessible by ropeway.
+A0076,P009,Chandi Devi Temple,Temple,6:00,20:00,0,2 hours,4.5,Temple dedicated to Goddess Chandi Devi atop Neel Parvat hill via ropeway.
+A0077,P009,Maya Devi Temple,Temple,6:00,22:00,0,1 hour,4.5,Ancient temple dedicated to Goddess Maya one of India's 51 Shakti Peethas.
+A0078,P009,Bharat Mata Mandir,Temple,7:00,21:00,0,1 hour,4.4,Unique eight-storey temple dedicated to Mother India with cultural exhibits.
+A0079,P009,Saptrishi Ashram,Religious,6:00,20:00,0,1 hour,4.4,Ancient ashram on Ganges banks where seven sages once meditated together.
+A0080,P009,Rajaji National Park Haridwar,Wildlife,6:00,18:00,150,Half Day,4.5,Sprawling tiger reserve near Haridwar famous for elephants tigers and leopards.
+A0081,P009,Piran Kaliyar Sharif,Religious,0:00,23:59,0,1 hour,4.5,Famous dargah of Sufi saint Alauddin Ali Ahmed Sabir revered across religions.
+A0082,P010,Golden Temple,Religious,0:00,23:59,0,2 hours,4.9,Holiest Sikh shrine and spiritual centre covered in gold serving langar daily.
+A0083,P010,Jallianwala Bagh,Historical,6:30,19:30,0,1 hour,4.6,Memorial garden marking the site of 1919 British colonial massacre.
+A0084,P010,Wagah Border,Historical,15:00,18:30,0,2 hours,4.7,Famous India-Pakistan border known for patriotic daily flag-lowering ceremony.
+A0085,P010,Akal Takht,Religious,0:00,23:59,0,1 hour,4.7,Highest temporal seat of authority of the Sikhs adjacent to Golden Temple.
+A0086,P010,Durgiana Temple,Temple,6:00,21:00,0,1 hour,4.5,Silver-doored Hindu temple dedicated to Goddess Durga modelled on Golden Temple.
+A0087,P010,Gobindgarh Fort,Fort,10:00,22:00,200,2 hours,4.4,Historic 18th-century fort now a heritage museum with cultural performances.
+A0088,P010,Partition Museum,Museum,10:00,18:00,200,2 hours,4.6,World's first museum dedicated to 1947 India-Pakistan partition stories.
+A0089,P010,Ram Bagh Garden,Garden,8:00,20:00,50,1 hour,4.2,Oldest Mughal garden in India established by Emperor Babur in 1528.
+A0090,P010,Maharaja Ranjit Singh Museum,Museum,10:00,17:00,10,1 hour,4.3,Museum in summer palace of Maharaja Ranjit Singh displaying Sikh artefacts.
+A0091,P011,Naini Lake,Lake,0:00,23:59,0,2 hours,4.8,Stunning crescent-shaped lake at the heart of Nainital perfect for boating.
+A0092,P011,Snow View Point,Viewpoint,8:00,18:00,150,1 hour,4.6,Popular viewpoint accessible by ropeway offering Himalayan snow peak panoramas.
+A0093,P011,Naina Devi Temple,Temple,6:00,20:00,0,1 hour,4.6,Sacred Shakti Peeth temple on Naini Lake shore dedicated to Goddess Naina.
+A0094,P011,Tiffin Top,Viewpoint,6:00,18:00,0,2 hours,4.5,Scenic hilltop viewpoint also called Dorothy's Seat with sweeping valley views.
+A0095,P011,Eco Cave Gardens,Nature,9:30,17:30,75,1 hour,4.2,Interconnected natural caves with hanging garden and musical fountain for families.
+A0096,P011,Nainital Zoo,Wildlife,10:00,17:00,100,2 hours,4.3,High-altitude zoo housing Himalayan black bear snow leopard and Siberian tiger.
+A0097,P011,Mall Road Nainital,Market,9:00,22:00,0,1 hour,4.5,Bustling lakeside promenade lined with shops restaurants and colonial-era buildings.
+A0098,P011,Khurpatal Lake,Lake,6:00,18:00,0,1 hour,4.3,Serene lesser-visited lake surrounded by dense oak and pine forests near Nainital.
+A0099,P011,Lands End,Viewpoint,6:00,18:00,0,1 hour,4.4,Dramatic clifftop viewpoint at forest edge offering sweeping Kumaon valley views.
+A0100,P012,Kempty Falls,Nature,8:00,18:00,50,2 hours,4.5,Popular multi-tiered waterfall surrounded by hills ideal for swimming and picnics.
+A0101,P012,Gun Hill,Viewpoint,7:00,19:00,150,1 hour,4.5,Second highest peak in Mussoorie reachable by ropeway with Himalayan vistas.
+A0102,P012,Mall Road Mussoorie,Market,9:00,22:00,0,2 hours,4.5,Colonial promenade at the heart of Mussoorie with shops cafes and scenic views.
+A0103,P012,Lal Tibba,Viewpoint,7:00,18:00,0,1 hour,4.4,Highest peak in Mussoorie offering telescopic views of Badrinath and Kedarnath.
+A0104,P012,Camel's Back Road,Nature,6:00,20:00,0,1 hour,4.4,Scenic three-kilometre walk shaped like a camel's back with mountain views.
+A0105,P012,Cloud's End,Nature,8:00,18:00,0,1 hour,4.3,Westernmost point of Mussoorie surrounded by dense forest and colonial bungalows.
+A0106,P012,Jwala Devi Temple,Temple,6:00,19:00,0,1 hour,4.4,Ancient hilltop temple dedicated to Goddess Jwala with panoramic valley views.
+A0107,P012,Company Garden,Garden,8:00,19:00,50,1 hour,4.2,Well-maintained botanical garden with fountains rides and colourful flower beds.
+A0108,P012,George Everest House,Historical,8:00,17:00,0,1 hour,4.3,Restored estate of surveyor Sir George Everest with dramatic cliff and valley views.
+A0109,P013,Krishna Janmabhoomi,Religious,5:00,21:00,0,2 hours,4.8,Sacred complex marking the exact birthplace of Lord Krishna with ornate temples.
+A0110,P013,Dwarkadhish Temple,Temple,6:30,10:30,0,1 hour,4.7,Magnificent 19th-century temple dedicated to Lord Krishna in the heart of Mathura.
+A0111,P013,Vishram Ghat,Religious,5:00,21:00,0,1 hour,4.6,Most sacred ghat in Mathura where Krishna rested after defeating Kansa.
+A0112,P013,Mathura Museum,Museum,10:30,16:30,25,2 hours,4.4,Government museum with outstanding Kushan-era sculptures and Buddhist artifacts.
+A0113,P013,Gita Mandir Mathura,Temple,5:00,21:00,0,1 hour,4.5,Beautiful white marble temple with entire Bhagavad Gita inscribed on its walls.
+A0114,P013,Kans Qila,Historical,9:00,17:00,0,1 hour,4.1,Ruins of ancient fort believed to be built by demon king Kansa on Yamuna banks.
+A0115,P013,Potara Kund,Religious,6:00,18:00,0,30 mins,4.2,Sacred tank where clothes of infant Krishna are believed to have been washed.
+A0116,P014,Banke Bihari Temple,Temple,7:45,12:00,0,1 hour,4.8,Most revered temple in Vrindavan known for unique darshan and festive atmosphere.
+A0117,P014,ISKCON Vrindavan,Temple,4:30,20:30,0,2 hours,4.8,Grand Hare Krishna temple complex with stunning architecture and devotional programs.
+A0118,P014,Prem Mandir,Temple,5:30,21:00,0,2 hours,4.8,Magnificent white marble temple illuminated at night with scenes of Krishna's life.
+A0119,P014,Radha Raman Temple,Temple,7:30,12:30,0,1 hour,4.7,Ancient 16th-century temple housing self-manifested deity of Lord Radha Raman.
+A0120,P014,Nidhivan,Religious,5:00,20:00,0,1 hour,4.6,Mystical sacred forest where Krishna is believed to perform Raas Lila at night.
+A0121,P014,Madan Mohan Temple,Temple,7:00,18:00,0,1 hour,4.5,One of Vrindavan's oldest temples built in 16th century on a natural rock hill.
+A0122,P014,Seva Kunj,Religious,6:00,18:00,0,1 hour,4.5,Sacred grove where Radha and Krishna are said to have spent their evenings.
+A0123,P014,Pagal Baba Temple,Temple,7:00,19:00,0,1 hour,4.3,Multi-storey temple complex with colourful mythology scenes and peaceful gardens.
+A0124,P015,Dhikala Zone,Wildlife,6:00,18:00,200,Half Day,4.8,Most popular safari zone in Corbett with highest density of tigers and elephants.
+A0125,P015,Bijrani Zone,Wildlife,6:00,18:00,200,Half Day,4.7,Scenic grassland safari zone in Corbett known for tiger and leopard sightings.
+A0126,P015,Corbett Museum,Museum,8:00,17:00,25,1 hour,4.3,Museum in Jim Corbett's former home displaying hunting memorabilia and photographs.
+A0127,P015,Garjia Devi Temple,Temple,6:00,18:00,0,1 hour,4.5,Scenic temple on a large rock in the middle of Kosi River near Corbett.
+A0128,P015,Sitabani Zone,Wildlife,6:00,18:00,150,Half Day,4.5,Buffer zone forest ideal for birdwatching and spotting elephants and deer.
+A0129,P015,Jhirna Zone,Wildlife,6:00,18:00,200,Half Day,4.5,Open year-round safari zone with reliable sloth bear and leopard sightings.
+A0130,P015,Kosi River,Nature,6:00,18:00,0,1 hour,4.4,Scenic river flowing through Corbett ideal for birdwatching and riverside walks.
+A0131,P016,Robber's Cave,Nature,8:00,17:00,25,2 hours,4.5,Natural river cave formation with cool water streams popular for wading and exploration.
+A0132,P016,Sahastradhara,Nature,8:00,18:00,0,2 hours,4.4,Sulphur spring waterfall site with therapeutic bathing pools and scenic surroundings.
+A0133,P016,Tapkeshwar Temple,Temple,5:00,19:00,0,1 hour,4.5,Ancient Shiva cave temple with natural water dripping on Shivalinga year round.
+A0134,P016,Mindrolling Monastery,Monastery,9:00,17:00,0,2 hours,4.7,One of the largest Buddhist monasteries in India with stunning white stupa.
+A0135,P016,Forest Research Institute,Historical,9:30,17:00,100,2 hours,4.6,Colonial-era heritage building with sprawling campus and six natural history museums.
+A0136,P016,Lachhiwala Nature Park,Nature,8:00,18:00,50,2 hours,4.2,Popular picnic spot with natural freshwater pools and dense sal forest surroundings.
+A0137,P016,Malsi Deer Park,Wildlife,9:00,17:00,25,1 hour,4.1,Small zoo and deer park at the foothills of Shivalik range near Dehradun.
+A0138,P016,Paltan Bazaar,Market,10:00,21:00,0,1 hour,4.3,Main shopping street of Dehradun known for local produce books and woolens.
+A0139,P017,Key Monastery,Monastery,7:00,18:00,0,2 hours,4.8,Largest monastery in Spiti Valley perched dramatically on a hilltop at 4166m.
+A0140,P017,Chandratal Lake,Lake,0:00,23:59,0,Half Day,4.9,Stunning crescent-shaped high-altitude lake at 4300m with crystal blue waters.
+A0141,P017,Dhankar Monastery,Monastery,7:00,17:00,0,2 hours,4.7,Ancient cliff-top monastery with breathtaking views of Spiti and Pin valley confluence.
+A0142,P017,Pin Valley National Park,Wildlife,7:00,17:00,150,Half Day,4.6,Cold desert national park home to snow leopard ibex and Siberian birds.
+A0143,P017,Tabo Monastery,Monastery,7:00,18:00,0,2 hours,4.8,1000-year-old monastery called Ajanta of the Himalayas with ancient murals.
+A0144,P017,Kunzum Pass,Viewpoint,0:00,23:59,0,1 hour,4.7,High mountain pass at 4590m connecting Lahaul and Spiti with panoramic views.
+A0145,P017,Langza Village,Viewpoint,0:00,23:59,0,1 hour,4.6,Fossil-rich high-altitude village with giant Buddha statue and Himalayan vistas.
+A0146,P017,Hikkim,Nature,0:00,23:59,0,30 mins,4.4,Home to world's highest post office at 4400m in a remote Spiti village.
+A0147,P018,Namgyal Monastery,Monastery,7:00,18:00,0,2 hours,4.7,Personal monastery of Dalai Lama in McLeod Ganj open to monks and tourists.
+A0148,P018,Tsuglagkhang Complex,Religious,5:00,20:00,0,2 hours,4.8,Main Tibetan temple complex housing golden Buddha statues and Tibetan museum.
+A0149,P018,Bhagsu Waterfall,Nature,7:00,18:00,0,2 hours,4.5,Popular scenic waterfall reached via short trek from McLeod Ganj market area.
+A0150,P018,Dal Lake Dharamshala,Lake,6:00,18:00,0,1 hour,4.3,Small serene lake surrounded by deodar trees near Dharamshala town centre.
+A0151,P018,Dharamshala Cricket Stadium,Historical,9:00,17:00,0,1 hour,4.5,One of world's most scenic cricket stadiums set against snow-capped Dhauladhar peaks.
+A0152,P018,Triund Trek,Adventure,6:00,18:00,0,Half Day,4.8,Iconic day trek from McLeod Ganj offering spectacular Dhauladhar ridge views.
+A0153,P018,Norbulingka Institute,Museum,9:00,17:30,75,2 hours,4.5,Tibetan cultural centre preserving traditional arts crafts and performing arts.
+A0154,P018,War Memorial Dharamshala,Historical,8:00,18:00,0,30 mins,4.3,Memorial honouring soldiers of the Dogra Regiment set in well-maintained gardens.
+A0155,P019,Pushkar Lake,Religious,5:00,21:00,0,2 hours,4.7,Sacred lake with 52 ghats where pilgrims bathe to wash away sins and seek blessings.
+A0156,P019,Brahma Temple Pushkar,Temple,6:30,20:30,0,1 hour,4.7,One of very few temples in the world dedicated to Lord Brahma the creator.
+A0157,P019,Savitri Temple,Temple,6:00,19:00,0,2 hours,4.5,Hilltop temple dedicated to Goddess Savitri accessible by ropeway with panoramic views.
+A0158,P019,Pushkar Camel Fair Ground,Nature,0:00,23:59,0,2 hours,4.6,Famous fairground hosting world's largest camel fair every November in Rajasthan.
+A0159,P019,Varaha Temple Pushkar,Temple,6:00,20:00,0,30 mins,4.3,Ancient temple dedicated to Varaha the boar avatar of Lord Vishnu.
+A0160,P019,Rangji Temple Pushkar,Temple,6:00,20:00,0,30 mins,4.3,Distinctive south Indian style temple dedicated to Lord Rangji in Pushkar town.
+A0161,P019,Pushkar Bazaar,Market,9:00,21:00,0,1 hour,4.4,Colourful market street famous for silver jewellery textiles and Rajasthani handicrafts.
+A0162,P020,Jaisalmer Fort,Fort,9:00,18:00,500,3 hours,4.8,Living UNESCO World Heritage golden sandstone fort housing temples havelis and hotels.
+A0163,P020,Patwon Ki Haveli,Historical,9:00,18:00,100,1 hour,4.6,Largest and most elaborate cluster of havelis in Jaisalmer with intricate carvings.
+A0164,P020,Sam Sand Dunes,Adventure,0:00,23:59,0,Half Day,4.7,Iconic golden sand dunes offering camel safaris jeep rides and desert camping.
+A0165,P020,Salim Singh Ki Haveli,Historical,8:00,18:00,70,1 hour,4.4,Distinctive 300-year-old haveli with a unique peacock-shaped roof and carved balconies.
+A0166,P020,Nathmal Ki Haveli,Historical,8:00,18:00,20,1 hour,4.4,Ornate 19th-century haveli with asymmetrical wings carved by two rival brothers.
+A0167,P020,Gadisar Lake,Lake,8:00,18:00,0,1 hour,4.5,Tranquil man-made lake with ornate temples and ghats ideal for sunrise boating.
+A0168,P020,Jaisalmer War Museum,Museum,10:00,17:00,0,2 hours,4.6,Outdoor museum displaying tanks helicopters and weapons from 1965 and 1971 wars.
+A0169,P020,Desert National Park,Wildlife,6:00,18:00,200,Half Day,4.5,Vast desert sanctuary home to Great Indian Bustard blackbuck and desert foxes.
+A0170,P020,Bada Bagh,Historical,8:00,18:00,50,1 hour,4.4,Garden complex with royal cenotaphs of Jaisalmer rulers offering sunset views.
+A0171,P020,Kuldhara Village,Historical,8:00,18:00,50,1 hour,4.3,Abandoned 200-year-old haunted village mysteriously deserted overnight by Paliwal Brahmins.
+A0172,P021,Eravikulam National Park,Wildlife,7:30,16:00,125,2 hours,4.8,Home to endangered Nilgiri Tahr with stunning rolling grasslands and misty peaks.
+A0173,P021,Mattupetty Dam,Nature,9:00,17:00,0,1 hour,4.5,Scenic reservoir surrounded by tea gardens and shola forests ideal for boating.
+A0174,P021,Tea Museum Munnar,Museum,9:00,16:00,75,1 hour,4.4,Interesting museum tracing history of tea cultivation in Munnar with factory tour.
+A0175,P021,Top Station Munnar,Viewpoint,6:00,18:00,0,1 hour,4.6,Highest point in Munnar offering breathtaking panoramic views of Tamil Nadu plains.
+A0176,P021,Attukal Waterfalls,Nature,6:00,18:00,0,1 hour,4.4,Picturesque waterfall cascading through dense forest on the Munnar-Bodimettu road.
+A0177,P021,Chinnar Wildlife Sanctuary,Wildlife,7:00,17:00,150,Half Day,4.5,Dry deciduous sanctuary home to elephants grizzled giant squirrel and leopards.
+A0178,P021,Pothamedu Viewpoint,Viewpoint,6:00,18:00,0,1 hour,4.5,Sweeping viewpoint overlooking vast tea coffee and cardamom plantations of Munnar.
+A0179,P021,Blossom Hydel Park,Garden,9:00,18:00,25,1 hour,4.2,Colourful park beside a stream with manicured gardens and children's play area.
+A0180,P021,Lakkam Waterfalls,Nature,6:00,18:00,0,1 hour,4.3,Scenic waterfall near Munnar surrounded by wildlife sanctuary and dense forest.
+A0181,P022,Ooty Lake,Lake,9:00,18:00,75,1 hour,4.4,Artificial lake popular for paddle boating surrounded by eucalyptus trees and hills.
+A0182,P022,Nilgiri Mountain Railway,Historical,6:00,18:00,310,2 hours,4.8,UNESCO-listed toy train winding through tea estates tunnels and misty Nilgiri hills.
+A0183,P022,Botanical Garden Ooty,Garden,7:00,18:30,50,2 hours,4.6,Sprawling 22-hectare garden with 650 plant species including fossil tree and topiary.
+A0184,P022,Doddabetta Peak,Viewpoint,7:00,18:00,0,1 hour,4.5,Highest peak in Nilgiris at 2637m with telescope house and panoramic views.
+A0185,P022,Rose Garden Ooty,Garden,8:30,18:30,50,1 hour,4.4,Asia's largest rose garden housing over 20000 varieties of roses on terraced slopes.
+A0186,P022,Mudumalai National Park,Wildlife,6:00,18:00,200,Half Day,4.6,Biodiverse tiger reserve at Nilgiris foothills with elephants leopards and gaur.
+A0187,P022,Wax World Museum Ooty,Museum,9:00,19:00,200,1 hour,4.2,Popular wax museum featuring life-size figures of celebrities and historical personalities.
+A0188,P022,Pykara Lake and Falls,Nature,9:00,18:00,0,2 hours,4.4,Scenic lake and waterfalls surrounded by shola forest with boating facility nearby.
+A0189,P023,Abbey Falls,Nature,8:00,18:00,0,1 hour,4.5,Beautiful twin waterfall cascading through coffee and spice estates in Coorg.
+A0190,P023,Raja's Seat,Viewpoint,5:30,20:30,10,1 hour,4.5,Royal garden viewpoint where Coorg kings watched sunsets over misty valley.
+A0191,P023,Namdroling Monastery,Monastery,9:00,18:00,0,2 hours,4.7,Golden Temple with stunning Tibetan Buddhist architecture and massive golden statues.
+A0192,P023,Dubare Elephant Camp,Wildlife,8:00,11:00,200,2 hours,4.6,Interactive elephant camp on Cauvery banks where visitors can bathe and feed elephants.
+A0193,P023,Iruppu Falls,Nature,6:00,18:00,0,2 hours,4.5,Sacred waterfall near Brahmagiri hills considered holy by local tribes and pilgrims.
+A0194,P023,Talacauvery,Religious,6:00,18:00,0,2 hours,4.6,Sacred origin of river Cauvery atop Brahmagiri hills with ancient temple complex.
+A0195,P023,Madikeri Fort,Fort,9:00,17:30,0,1 hour,4.3,18th-century fort housing a church museum and heritage palace in Coorg's main town.
+A0196,P023,Pushpagiri Wildlife Sanctuary,Wildlife,6:00,17:00,150,Half Day,4.4,Dense forest sanctuary with diverse endemic birds mammals and spectacular waterfalls.
+A0197,P024,Mysore Palace,Palace,10:00,17:30,200,2 hours,4.8,Magnificent illuminated royal palace and one of India's most visited tourist monuments.
+A0198,P024,Chamundeshwari Temple,Temple,7:30,14:00,0,2 hours,4.7,Sacred hilltop temple atop Chamundi Hills dedicated to Goddess Chamundeshwari.
+A0199,P024,Brindavan Gardens,Garden,6:30,20:30,50,2 hours,4.5,Terraced Mughal-style garden below KRS Dam famous for musical fountain evenings.
+A0200,P024,Mysore Zoo,Wildlife,8:30,17:30,100,2 hours,4.5,One of India's oldest and finest zoos with white tigers gorillas and hippos.
+A0201,P024,Jaganmohan Palace Art Gallery,Museum,8:30,17:30,40,1 hour,4.4,Royal palace converted into art gallery showcasing paintings musical instruments and artifacts.
+A0202,P024,St Philomena's Cathedral,Historical,8:00,18:00,0,1 hour,4.5,One of India's largest cathedrals built in neo-Gothic style with stunning stained glass.
+A0203,P024,Devaraja Market,Market,8:00,21:00,0,1 hour,4.4,Vibrant century-old market overflowing with flowers incense spices and local produce.
+A0204,P024,Lalitha Mahal Palace,Palace,8:30,17:30,50,1 hour,4.4,Grand white palace built for the Viceroy of India now converted into heritage hotel.
+A0205,P025,Virupaksha Temple,Temple,6:00,21:00,0,2 hours,4.8,Living 7th-century temple dedicated to Lord Shiva and the oldest in Hampi complex.
+A0206,P025,Vittala Temple,Historical,8:30,17:30,600,2 hours,4.9,Exquisite 15th-century temple with iconic stone chariot and musical pillars.
+A0207,P025,Hampi Bazaar,Market,6:00,20:00,0,1 hour,4.5,Ancient ruined marketplace stretching from Virupaksha Temple with vibrant street life.
+A0208,P025,Lotus Mahal,Palace,8:30,17:30,600,1 hour,4.6,Elegant Indo-Islamic pavilion in Zenana enclosure named for its lotus-bud arches.
+A0209,P025,Elephant Stables Hampi,Historical,8:30,17:30,600,1 hour,4.5,Imposing row of domed chambers that once housed royal Vijayanagara war elephants.
+A0210,P025,Matanga Hill,Viewpoint,6:00,18:00,0,2 hours,4.7,Highest viewpoint in Hampi offering spectacular sunrise panorama over boulder landscape.
+A0211,P025,Hemakuta Hill Temples,Temple,6:00,18:00,0,1 hour,4.5,Pre-Vijayanagara hilltop cluster of Shiva temples with ruins and sunset views.
+A0212,P025,Tungabhadra River,Nature,6:00,18:00,0,1 hour,4.5,Sacred river flowing through Hampi boulders ideal for coracle rides and sunsets.
+A0213,P026,Fort Kochi,Historical,0:00,23:59,0,2 hours,4.7,Charming colonial neighbourhood with Dutch Portuguese and British heritage buildings.
+A0214,P026,Chinese Fishing Nets,Historical,6:00,19:00,0,1 hour,4.6,Iconic cantilevered Chinese fishing nets lining the Kochi harbour since 14th century.
+A0215,P026,Mattancherry Palace,Museum,10:00,17:00,5,1 hour,4.5,16th-century Portuguese palace with exquisite Kerala murals depicting Ramayana scenes.
+A0216,P026,Jewish Synagogue Kochi,Religious,10:00,17:00,5,1 hour,4.5,Oldest active synagogue in the Commonwealth with hand-painted Chinese floor tiles.
+A0217,P026,St Francis Church Kochi,Historical,8:30,17:00,0,1 hour,4.5,India's oldest European church where Vasco da Gama was originally buried in 1524.
+A0218,P026,Cherai Beach,Beach,6:00,20:00,0,2 hours,4.5,Serene beach on Vypin Island where backwaters meet the Arabian Sea with dolphins.
+A0219,P026,Kerala Folklore Museum,Museum,9:30,18:30,100,2 hours,4.6,Three-storey museum with over 4000 artifacts of Kerala's folk art and culture.
+A0220,P026,Paradesi Synagogue,Religious,10:00,13:00,0,1 hour,4.4,Historic 16th-century synagogue in Jew Town with Belgian chandeliers and old scrolls.
+A0221,P027,Alleppey Backwaters,Nature,6:00,18:00,0,Half Day,4.8,Tranquil network of canals lagoons and lakes best explored on traditional houseboats.
+A0222,P027,Alappuzha Beach,Beach,6:00,19:00,0,1 hour,4.4,Popular beach with 137-year-old pier lighthouse and annual Nehru Trophy boat race.
+A0223,P027,Nehru Trophy Boat Race Venue,Nature,6:00,18:00,0,1 hour,4.6,Punnamada Lake venue of Kerala's most famous snake boat race held every August.
+A0224,P027,Krishnapuram Palace,Palace,9:00,17:00,20,1 hour,4.4,18th-century palace housing Kerala murals antique furniture and historic artifacts.
+A0225,P027,Ambalapuzha Sree Krishna Temple,Temple,5:30,21:00,0,1 hour,4.6,Famous ancient temple known for legendary palpayasam offering to Lord Krishna.
+A0226,P027,Marari Beach,Beach,6:00,19:00,0,1 hour,4.5,Pristine secluded beach near Alleppey lined with coconut palms and fishing hamlets.
+A0227,P027,Pathiramanal Island,Wildlife,8:00,17:00,0,2 hours,4.5,Tiny island on Vembanad Lake famous for rare migratory birds and scenic beauty.
+A0228,P028,Lighthouse Beach Kovalam,Beach,6:00,19:00,0,2 hours,4.6,Most popular crescent beach in Kovalam overlooked by a working red-and-white lighthouse.
+A0229,P028,Hawah Beach Kovalam,Beach,6:00,19:00,0,1 hour,4.4,Lively beach in Kovalam popular for swimming ayurvedic massages and fresh seafood.
+A0230,P028,Samudra Beach Kovalam,Beach,6:00,19:00,0,1 hour,4.3,Quieter northern beach in Kovalam ideal for peaceful swimming and sunset views.
+A0231,P028,Vizhinjam Rock Cut Cave Temple,Historical,6:00,18:00,0,1 hour,4.3,8th-century unfinished rock-cut cave temple with Pallava-era bas-relief carvings.
+A0232,P028,Kovalam Lighthouse,Viewpoint,14:00,17:00,20,30 mins,4.5,Active lighthouse offering sweeping coastal panoramas from its top observation deck.
+A0233,P028,Halcyon Castle,Historical,9:00,17:00,0,30 mins,4.2,Colonial palace once used by the Travancore royal family overlooking Kovalam beach.
+A0234,P028,Karamana River,Nature,6:00,18:00,0,1 hour,4.2,Scenic river near Kovalam ideal for nature walks birdwatching and riverside picnics.
+A0235,P029,Shore Temple,Historical,6:00,18:00,600,2 hours,4.8,UNESCO-listed 8th-century Pallava granite temple dramatically overlooking the Bay of Bengal.
+A0236,P029,Pancha Rathas,Historical,6:00,18:00,600,2 hours,4.8,Five monolithic rock-cut Pallava chariots each carved from single granite boulders.
+A0237,P029,Arjuna's Penance,Historical,6:00,18:00,0,1 hour,4.7,World's largest open-air bas-relief carving depicting Arjuna's penance and river descent.
+A0238,P029,Krishna's Butter Ball,Historical,0:00,23:59,0,30 mins,4.6,Giant naturally balanced boulder defying gravity on a smooth rocky slope for centuries.
+A0239,P029,Mahabalipuram Beach,Beach,6:00,19:00,0,1 hour,4.4,Long stretch of beach beside ancient stone monuments ideal for sunrise walks.
+A0240,P029,Tiger Cave,Historical,6:00,18:00,0,30 mins,4.3,Rock-cut open-air theatre with tiger-head sculptures believed to be a Pallava shrine.
+A0241,P029,Archaeological Museum Mahabalipuram,Museum,9:00,17:00,15,1 hour,4.3,Museum displaying Pallava sculptures bronzes and architectural fragments from excavations.
+A0242,P029,Descent of the Ganges,Historical,6:00,18:00,0,1 hour,4.7,Magnificent ancient bas-relief panel carved on two huge adjacent boulders in Mahabalipuram.
+A0243,P030,Auroville,Religious,9:00,17:30,0,2 hours,4.6,Experimental universal township built around the golden Matrimandir sphere for meditation.
+A0244,P030,Promenade Beach Pondicherry,Beach,0:00,23:59,0,1 hour,4.6,Scenic seafront boulevard perfect for morning walks cycling and watching sunrises.
+A0245,P030,Sri Aurobindo Ashram,Religious,8:00,12:00,0,1 hour,4.7,Internationally renowned spiritual ashram founded by Sri Aurobindo attracting seekers worldwide.
+A0246,P030,French Quarter,Historical,0:00,23:59,0,2 hours,4.7,Charming colonial district with yellow mustard walls bougainvillea and French street names.
+A0247,P030,Basilica of the Sacred Heart of Jesus,Religious,6:00,19:00,0,1 hour,4.5,Neo-Gothic French church with stunning stained glass windows depicting life of Jesus.
+A0248,P030,Pondicherry Museum,Museum,10:00,17:30,20,1 hour,4.3,Colonial-era museum showcasing French-era furniture Pallava sculptures and Roman artifacts.
+A0249,P030,Paradise Beach,Beach,7:00,18:00,200,2 hours,4.5,Secluded pristine beach accessible only by boat offering clean sands and clear waters.
+A0250,P030,Manakula Vinayagar Temple,Temple,5:45,21:30,0,1 hour,4.6,Ancient Ganesha temple in the French Quarter with ornate gopuram and elephant blessings.
+A0251,P030,Serenity Beach,Beach,6:00,19:00,0,1 hour,4.4,Popular beach with waves ideal for surfing with a surf school and cafes nearby.
+A0252,P031,Meenakshi Amman Temple,Temple,5:00,21:30,0,3 hours,4.9,Magnificent Dravidian temple with 14 towering gopurams and thousands of sculptures.
+A0253,P031,Thirumalai Nayakkar Palace,Palace,9:00,17:00,50,1 hour,4.5,17th-century Indo-Saracenic palace with massive columns courtyard and sound-light show.
+A0254,P031,Gandhi Memorial Museum,Museum,10:00,13:00,0,2 hours,4.5,Museum housed in palace where Gandhi's blood-stained dhoti is preserved as memorial.
+A0255,P031,Alagar Kovil Temple,Temple,6:00,20:00,0,2 hours,4.6,Ancient Vishnu temple atop Alagar Hills surrounded by scenic forest and wildlife.
+A0256,P031,Vandiyur Mariamman Teppakulam,Lake,6:00,20:00,0,1 hour,4.3,Vast temple tank with central island shrine hosting float festival every January.
+A0257,P031,Koodal Azhagar Temple,Temple,6:00,20:00,0,1 hour,4.4,Ancient three-storey Vishnu temple in Madurai dedicated to Lord Koodal Azhagar.
+A0258,P031,Pazhamudhir Cholai,Temple,6:00,18:00,0,2 hours,4.5,One of six abodes of Lord Murugan nestled in lush forest near Alagar hills.
+A0259,P031,Madurai Flower Market,Market,4:00,10:00,0,1 hour,4.5,Vibrant pre-dawn jasmine and flower market near Meenakshi Temple bursting with colour.
+A0260,P032,Ramanathaswamy Temple,Temple,5:00,21:00,0,3 hours,4.9,Sacred Shiva temple with world's longest temple corridor of 1212 pillars.
+A0261,P032,Dhanushkodi,Historical,0:00,23:59,0,2 hours,4.7,Ghost town at India's southern tip where Bay of Bengal meets Indian Ocean.
+A0262,P032,Pamban Bridge,Historical,0:00,23:59,0,1 hour,4.7,India's first sea bridge connecting Rameswaram island to mainland across Palk Strait.
+A0263,P032,Agnitheertham,Religious,5:00,21:00,0,1 hour,4.5,Sacred sea bathing ghat in front of Ramanathaswamy Temple for ritual cleansing.
+A0264,P032,Gandhamadhana Parvatham,Religious,6:00,18:00,0,1 hour,4.4,Hilltop shrine with Lord Rama's footprint offering panoramic views of Rameswaram island.
+A0265,P032,APJ Abdul Kalam Memorial,Historical,10:00,17:00,0,1 hour,4.6,Memorial museum dedicated to former President Dr APJ Abdul Kalam born in Rameswaram.
+A0266,P032,Kothandaramaswamy Temple,Temple,6:00,18:00,0,1 hour,4.4,Coastal temple that survived 1964 cyclone believed to mark where Vibhishana surrendered to Rama.
+A0267,P033,Tirumala Venkateswara Temple,Temple,2:30,1:00,0,3 hours,4.9,World's most visited Hindu temple dedicated to Lord Venkateswara atop Tirumala hills.
+A0268,P033,Chandragiri Fort,Fort,9:00,17:00,25,1 hour,4.4,16th-century fort where rulers of Vijayanagara Empire spent their final years.
+A0269,P033,Sri Govindarajaswamy Temple,Temple,6:00,21:00,0,1 hour,4.6,Ancient reclining Vishnu temple at the foothills of Tirumala in Tirupati town.
+A0270,P033,Silathoranam,Nature,8:00,17:00,0,1 hour,4.4,Natural rock arch formation on Tirumala hills considered sacred and scientifically unique.
+A0271,P033,Srikalahasti Temple,Temple,6:00,21:00,0,2 hours,4.7,Famous Shiva temple known for Rahu-Ketu puja and Vayu Lingam near Tirupati.
+A0272,P033,Talakona Waterfall,Nature,8:00,17:00,50,2 hours,4.5,Highest waterfall in Andhra Pradesh at 270 feet inside Sri Venkateswara National Park.
+A0273,P034,Chembra Peak,Adventure,7:00,15:00,200,Half Day,4.7,Highest peak in Wayanad at 2100m with heart-shaped lake on trekking trail.
+A0274,P034,Edakkal Caves,Historical,9:00,17:00,30,2 hours,4.6,Natural caves with prehistoric carvings dating back to Neolithic period at 1200m.
+A0275,P034,Wayanad Wildlife Sanctuary,Wildlife,6:00,18:00,150,Half Day,4.6,Part of Nilgiri Biosphere Reserve home to tigers elephants leopards and gaur.
+A0276,P034,Soochipara Falls,Nature,8:00,17:00,50,2 hours,4.6,Three-tiered waterfall in dense forest with a natural pool ideal for swimming.
+A0277,P034,Pookode Lake,Lake,8:30,17:00,25,1 hour,4.4,Freshwater lake surrounded by evergreen forest with boating and trout hatchery.
+A0278,P034,Banasura Sagar Dam,Nature,8:00,18:00,0,1 hour,4.5,India's largest earthen dam surrounded by hills with boating and scenic views.
+A0279,P034,Thirunelli Temple,Temple,6:00,18:00,0,2 hours,4.6,Ancient Vishnu temple in dense forest considered the Kashi of the South.
+A0280,P034,Phantom Rock Wayanad,Viewpoint,6:00,18:00,0,1 hour,4.3,Unique rock formation resembling a human face visible from Pakshipathalam forest range.
+A0281,P035,Mullayanagiri Peak,Adventure,6:00,18:00,0,Half Day,4.8,Highest peak in Karnataka at 1930m offering spectacular sunrise and Himalayan-like views.
+A0282,P035,Baba Budangiri,Religious,6:00,18:00,0,2 hours,4.6,Sacred hills with dargah of Sufi saint Baba Budan revered by both Muslims and Hindus.
+A0283,P035,Hebbe Falls,Nature,7:00,17:00,200,2 hours,4.6,Stunning two-tiered waterfall deep inside a coffee estate accessible only by jeep.
+A0284,P035,Kudremukh National Park,Wildlife,6:00,18:00,200,Half Day,4.7,Dense UNESCO Biosphere Reserve with rare shola grasslands tigers and lion-tailed macaque.
+A0285,P035,Z Point Viewpoint,Viewpoint,6:00,18:00,0,1 hour,4.5,Scenic sunrise viewpoint in Chikmagalur offering panoramic views of coffee plantations.
+A0286,P035,Hirekolale Lake,Lake,6:00,18:00,0,1 hour,4.3,Serene lake surrounded by coffee estates and hills ideal for birdwatching at dawn.
+A0287,P035,Belavadi Veera Narayana Temple,Temple,8:00,18:00,0,1 hour,4.4,12th-century Hoysala temple with intricate carvings dedicated to Lord Vishnu.
+A0288,P036,Kodaikanal Lake,Lake,8:30,18:30,0,2 hours,4.6,Star-shaped artificial lake ideal for boating cycling and peaceful lakeside strolls.
+A0289,P036,Coaker's Walk,Viewpoint,7:00,19:00,25,1 hour,4.6,Scenic one-kilometre cliff walk with stunning views of plains and Pambar Valley.
+A0290,P036,Bryant Park,Garden,8:30,18:30,25,1 hour,4.4,Well-maintained botanical garden beside Kodaikanal Lake with rare plant species.
+A0291,P036,Pillar Rocks,Viewpoint,8:00,18:00,0,1 hour,4.5,Three massive vertical granite pillars rising 122 metres surrounded by misty forests.
+A0292,P036,Silver Cascade Falls,Nature,7:00,18:00,0,30 mins,4.4,Popular 55-metre waterfall on the winding ghat road leading to Kodaikanal town.
+A0293,P036,Berijam Lake,Nature,9:30,15:30,0,2 hours,4.7,Remote pristine reservoir in protected forest accessible only with special forest permit.
+A0294,P036,Dolphin's Nose,Viewpoint,7:00,18:00,0,1 hour,4.5,Rocky cliff viewpoint jutting like a dolphin's nose over the misty Pambar Valley.
+A0295,P036,Kukkal Caves,Adventure,6:00,17:00,0,2 hours,4.3,Ancient prehistoric caves with evidence of early human habitation near Kodaikanal.
+A0296,P036,Green Valley View,Viewpoint,8:00,18:00,0,30 mins,4.4,Dizzying viewpoint offering 2000-foot drop panorama over the verdant Vaigai plains.
+A0297,P037,Varkala Beach,Beach,6:00,20:00,0,2 hours,4.7,Dramatic red laterite cliff-backed beach with mineral springs and laid-back atmosphere.
+A0298,P037,Janardanaswamy Temple,Temple,4:30,20:30,0,1 hour,4.6,2000-year-old Vishnu temple perched on cliff top overlooking the Arabian Sea.
+A0299,P037,Papanasam Beach,Beach,6:00,20:00,0,1 hour,4.5,Sacred beach where bathing is believed to wash away sins according to Hindu tradition.
+A0300,P037,Varkala Tunnel,Historical,8:00,18:00,0,30 mins,4.2,108-year-old British-era railway tunnel cutting through the laterite cliff near Varkala.
+A0301,P037,Anjengo Fort,Fort,9:00,17:00,0,1 hour,4.3,Ruins of one of earliest British forts in Kerala built by East India Company in 1695.
+A0302,P037,Kappil Beach,Beach,6:00,19:00,0,1 hour,4.4,Secluded beach at confluence of Edava-Nadayara lake and Arabian Sea near Varkala.
+A0303,P037,Sivagiri Mutt,Religious,8:00,18:00,0,1 hour,4.5,Pilgrimage centre founded by social reformer Sree Narayana Guru overlooking Varkala town.
+A0304,P038,Badami Cave Temples,Historical,8:00,18:00,100,3 hours,4.8,Four magnificent rock-cut caves with Chalukya-era carvings dedicated to Shiva Vishnu and Jains.
+A0305,P038,Agastya Lake,Lake,7:00,18:00,0,1 hour,4.5,Sacred red-hued lake at foot of Badami cliffs surrounded by ancient temples and ghats.
+A0306,P038,Bhutanatha Temple,Temple,6:00,18:00,0,1 hour,4.5,Group of early Chalukya temples on Agastya Lake shore with intricate stone carvings.
+A0307,P038,Badami Fort,Fort,8:00,18:00,100,2 hours,4.4,Ancient hilltop fortification with water tanks granaries and stunning views over Badami.
+A0308,P038,Pattadakal,Historical,6:00,18:00,300,2 hours,4.7,UNESCO World Heritage site with Chalukyan temples blending north and south Indian styles.
+A0309,P038,Aihole,Historical,6:00,18:00,100,2 hours,4.6,Cradle of Hindu temple architecture with over 125 temples from 4th to 12th century.
+A0310,P038,Archaeological Museum Badami,Museum,10:00,17:00,25,1 hour,4.3,Museum displaying Chalukyan sculptures inscriptions and artifacts excavated from Badami region.
+A0311,P039,Yercaud Lake,Lake,8:30,18:00,0,1 hour,4.4,Scenic lake at the heart of Yercaud with boating and surrounding coffee estates.
+A0312,P039,Shevaroy Temple,Temple,6:00,18:00,0,2 hours,4.5,Ancient hilltop temple dedicated to Shevarayan deity atop the Shevaroy Hills.
+A0313,P039,Kiliyur Falls,Nature,8:00,17:00,0,1 hour,4.4,Scenic 300-feet waterfall flowing through dense coffee and orange grove estates.
+A0314,P039,Lady's Seat,Viewpoint,6:00,18:00,0,30 mins,4.4,Popular viewpoint offering sweeping views of Salem city and surrounding plains below.
+A0315,P039,Pagoda Point,Viewpoint,6:00,18:00,0,30 mins,4.3,Viewpoint in Yercaud offering panoramic ghat road and valley views at sunrise.
+A0316,P039,Botanical Garden Yercaud,Garden,9:00,17:30,20,1 hour,4.2,Compact garden with orchids ferns and rare medicinal plants on Shevaroy Hills.
+A0317,P039,Bear's Cave,Nature,9:00,17:00,0,30 mins,4.1,Small natural cave in Yercaud forest once believed to be a bear habitat.
+A0318,P040,Rushikonda Beach,Beach,6:00,20:00,0,2 hours,4.6,Blue Flag beach with clear waters ideal for swimming surfing and water sports.
+A0319,P040,INS Kurusura Submarine Museum,Museum,10:00,20:00,40,1 hour,4.7,Decommissioned submarine converted into unique museum on Vizag's RK Beach promenade.
+A0320,P040,Kailasagiri,Viewpoint,7:00,21:00,30,2 hours,4.6,Hilltop park with giant Shiva-Parvati statues and ropeway overlooking Vizag city.
+A0321,P040,RK Beach,Beach,0:00,23:59,0,1 hour,4.5,Popular 2km promenade beach lined with statues museums and food stalls in Vizag.
+A0322,P040,Simhachalam Temple,Temple,5:00,21:00,0,2 hours,4.7,Ancient Narasimha temple atop Simhachalam hill with rare turmeric-covered deity.
+A0323,P040,Araku Valley,Nature,0:00,23:59,0,Half Day,4.7,Scenic tribal valley with coffee plantations waterfalls caves and tribal museum.
+A0324,P040,Borra Caves,Nature,10:00,17:00,65,2 hours,4.6,Million-year-old limestone caves with stalactites and stalagmites in Eastern Ghats.
+A0325,P040,Visakha Museum,Museum,10:00,17:00,20,1 hour,4.3,Dutch bungalow converted into museum displaying Vizag's maritime and cultural history.
+A0326,P040,Rishikonda Beach,Beach,6:00,20:00,0,1 hour,4.5,Golden sandy beach with excellent waves popular for water sports and beach camping.
+A0327,P040,Yarada Beach,Beach,6:00,18:00,0,1 hour,4.5,Secluded pristine beach nestled between hills and sea south of Vizag city.
+A0328,P041,Calangute Beach,Beach,0:00,23:59,0,2 hours,4.5,Goa's largest and most popular beach known as Queen of Beaches with water sports.
+A0329,P041,Basilica of Bom Jesus,Historical,9:00,18:30,0,1 hour,4.8,UNESCO-listed 16th-century church housing mortal remains of St Francis Xavier.
+A0330,P041,Fort Aguada,Fort,9:30,18:00,0,1 hour,4.6,Well-preserved 17th-century Portuguese fort at confluence of Mandovi river and sea.
+A0331,P041,Anjuna Beach,Beach,0:00,23:59,0,2 hours,4.5,Famous bohemian beach known for Wednesday flea market trance parties and sunsets.
+A0332,P041,Se Cathedral Goa,Historical,7:30,18:30,0,1 hour,4.6,Largest church in Asia built by Portuguese dedicated to Saint Catherine of Alexandria.
+A0333,P041,Dudhsagar Falls,Nature,6:00,17:00,400,Half Day,4.8,Spectacular four-tiered milk-white waterfall on Goa-Karnataka border amid dense jungle.
+A0334,P041,Chapora Fort,Fort,9:00,17:30,0,1 hour,4.5,Iconic ruined fort offering sweeping views of Vagator Beach made famous by Dil Chahta Hai.
+A0335,P041,Palolem Beach,Beach,0:00,23:59,0,2 hours,4.7,Crescent-shaped paradise beach in South Goa with calm waters and scenic bay.
+A0336,P041,Bhagwan Mahavir Wildlife Sanctuary,Wildlife,7:00,17:00,100,Half Day,4.4,Largest wildlife sanctuary in Goa with diverse flora fauna and Dudhsagar Falls inside.
+A0337,P041,Goa State Museum,Museum,9:30,17:30,0,1 hour,4.3,Museum displaying Goa's archaeological Christian art bronze sculptures and natural history.
+A0338,P042,Gateway of India,Historical,0:00,23:59,0,1 hour,4.7,Iconic 1924 basalt arch monument overlooking Mumbai harbour and Arabian Sea.
+A0339,P042,Chhatrapati Shivaji Maharaj Terminus,Historical,0:00,23:59,0,1 hour,4.7,UNESCO-listed Victorian Gothic railway station and one of India's busiest terminals.
+A0340,P042,Elephanta Caves,Historical,9:00,17:30,600,3 hours,4.6,UNESCO-listed rock-cut cave temples on island dedicated to Lord Shiva reachable by ferry.
+A0341,P042,Marine Drive,Viewpoint,0:00,23:59,0,1 hour,4.7,Iconic 3.6km curved boulevard along Arabian Sea called Queen's Necklace at night.
+A0342,P042,Juhu Beach,Beach,0:00,23:59,0,1 hour,4.4,Famous Mumbai beach known for street food celebrity homes and vibrant sunset crowds.
+A0343,P042,Siddhivinayak Temple,Temple,5:30,22:00,0,1 hour,4.8,Mumbai's most revered Ganesh temple attracting thousands of devotees daily including celebrities.
+A0344,P042,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Museum,10:15,18:00,200,2 hours,4.6,Premier Mumbai museum with impressive Indo-Saracenic dome housing art and antiquities.
+A0345,P042,Haji Ali Dargah,Religious,5:30,22:00,0,1 hour,4.6,Iconic mosque and dargah on a tiny islet connected to shore by narrow causeway.
+A0346,P042,Dharavi,Historical,8:00,18:00,700,2 hours,4.3,One of Asia's largest slums offering fascinating guided tours of thriving cottage industries.
+A0347,P042,Colaba Causeway,Market,10:00,22:00,0,2 hours,4.5,Bustling market street in South Mumbai selling antiques clothes jewellery and souvenirs.
+A0348,P043,Shaniwar Wada,Fort,8:00,18:00,25,2 hours,4.5,18th-century Peshwa fortification with imposing gates fountains and eerie ghost legends.
+A0349,P043,Aga Khan Palace,Historical,9:00,17:30,25,2 hours,4.6,Historic palace where Gandhi and Kasturba were imprisoned during Quit India Movement.
+A0350,P043,Sinhagad Fort,Fort,5:00,18:00,25,3 hours,4.6,Historic Maratha hill fort where Tanaji Malusare died fighting for Chhatrapati Shivaji.
+A0351,P043,Dagdusheth Halwai Ganapati Temple,Temple,6:00,23:00,0,1 hour,4.7,Pune's most famous Ganesh temple adorned with gold and precious jewels year-round.
+A0352,P043,Osho International Meditation Resort,Religious,6:00,21:30,0,2 hours,4.4,World-renowned meditation resort founded by Osho with lush campus and wellness programs.
+A0353,P043,Raja Dinkar Kelkar Museum,Museum,10:00,17:30,100,2 hours,4.6,Private museum with 20000 objects of everyday Indian life collected by D G Kelkar.
+A0354,P043,Parvati Hill Temple,Temple,5:00,19:00,0,2 hours,4.5,18th-century hilltop temple complex offering panoramic views over Pune city.
+A0355,P043,Pune Tribal Museum,Museum,10:00,17:30,0,1 hour,4.3,Museum showcasing tribal art craft lifestyle and traditions of Maharashtra's indigenous people.
+A0356,P044,Ajanta Caves,Historical,9:00,17:30,250,Half Day,4.9,UNESCO-listed 2nd-century Buddhist caves with extraordinary ancient murals and sculptures.
+A0357,P044,Ellora Caves,Historical,6:00,18:00,600,Half Day,4.9,UNESCO-listed rock-cut caves representing Buddhist Hindu and Jain monuments across 2km.
+A0358,P044,Bibi Ka Maqbara,Historical,8:00,20:00,25,1 hour,4.5,17th-century Mughal mausoleum built by Aurangzeb's son often called Mini Taj Mahal.
+A0359,P044,Daulatabad Fort,Fort,6:00,18:00,25,2 hours,4.6,Formidable 12th-century hilltop fort considered one of India's most impregnable fortresses.
+A0360,P044,Grishneshwar Temple,Temple,5:30,21:30,0,1 hour,4.7,One of twelve sacred Jyotirlinga shrines dedicated to Lord Shiva near Ellora.
+A0361,P044,Panchakki Water Mill,Historical,6:00,22:00,25,1 hour,4.4,17th-century Sufi-era water mill with large garden and underground water channels.
+A0362,P044,Aurangabad Caves,Historical,9:00,17:30,25,1 hour,4.3,Early Buddhist rock-cut caves with notable carvings predating and inspired by Ajanta.
+A0363,P044,Salim Ali Lake and Bird Sanctuary,Wildlife,6:00,18:00,0,1 hour,4.3,Peaceful lake sanctuary near Bibi Ka Maqbara attracting migratory birds in winter.
+A0364,P045,City Palace Udaipur,Palace,9:30,17:30,300,3 hours,4.8,Magnificent lakeside palace complex blending Rajput and Mughal architecture on Lake Pichola.
+A0365,P045,Lake Pichola,Lake,0:00,23:59,0,2 hours,4.8,Stunning artificial lake with island palaces boat rides and Aravalli hill reflections.
+A0366,P045,Jag Mandir,Palace,10:00,18:00,700,1 hour,4.6,Island palace on Lake Pichola with carved marble elephants and lake-view garden.
+A0367,P045,Saheliyon Ki Bari,Garden,9:00,19:00,50,1 hour,4.5,Ornate 18th-century garden of fountains marble kiosks and lotus pools for royal maidens.
+A0368,P045,Fateh Sagar Lake,Lake,0:00,23:59,0,1 hour,4.6,Beautiful artificial lake with three islands including Nehru Park and solar observatory.
+A0369,P045,Jagdish Temple Udaipur,Temple,4:15,13:00,0,1 hour,4.6,Indo-Aryan style temple built in 1651 dedicated to Lord Vishnu in central Udaipur.
+A0370,P045,Kumbhalgarh Fort,Fort,9:00,18:00,200,Half Day,4.8,UNESCO-listed fort with world's second longest wall extending 36km in Aravalli hills.
+A0371,P045,Monsoon Palace,Palace,9:00,18:00,65,1 hour,4.5,Hilltop palace offering panoramic 360-degree views of Udaipur city and surrounding lakes.
+A0372,P045,Shilpgram Udaipur,Museum,11:00,19:00,30,2 hours,4.3,Rural arts and crafts complex showcasing traditional arts and craftspeople from western India.
+A0373,P046,Mehrangarh Fort,Fort,9:00,17:00,200,3 hours,4.9,Magnificent hilltop fort towering 400 feet over Jodhpur with museum and panoramic views.
+A0374,P046,Jaswant Thada,Historical,9:00,17:00,30,1 hour,4.6,Intricately carved white marble royal cenotaph built in 1899 overlooking a serene lake.
+A0375,P046,Umaid Bhawan Palace Museum,Museum,9:00,17:00,30,1 hour,4.5,Museum inside living royal palace displaying vintage cars clocks and royal memorabilia.
+A0376,P046,Mandore Garden,Garden,8:00,20:00,0,2 hours,4.4,Historic garden with cenotaphs of Marwar rulers hall of heroes and deer park.
+A0377,P046,Clock Tower Jodhpur,Market,8:00,21:00,0,1 hour,4.5,Iconic clock tower at centre of Sardar Market with vibrant bazaars selling spices textiles.
+A0378,P046,Toorji Ka Jhalra,Historical,0:00,23:59,0,30 mins,4.6,Restored 18th-century stepwell with intricate carvings now a vibrant heritage precinct.
+A0379,P046,Kaylana Lake,Lake,6:00,19:00,0,1 hour,4.3,Scenic artificial lake on outskirts of Jodhpur ideal for bird watching and sunset views.
+A0380,P046,Rao Jodha Desert Rock Park,Nature,8:00,18:00,100,2 hours,4.5,Ecological park beside Mehrangarh Fort restoring native desert vegetation and rocky terrain.
+A0381,P047,Dargah Sharif Ajmer,Religious,5:00,22:00,0,2 hours,4.8,Revered dargah of Sufi saint Khwaja Moinuddin Chishti visited by millions annually.
+A0382,P047,Ana Sagar Lake,Lake,0:00,23:59,0,1 hour,4.5,12th-century artificial lake with marble pavilions built by Emperor Jahangir on banks.
+A0383,P047,Taragarh Fort Ajmer,Fort,6:00,18:00,0,2 hours,4.4,Ruined 14th-century hilltop fort with panoramic views over Ajmer city and lake.
+A0384,P047,Adhai Din Ka Jhonpra,Historical,8:00,18:00,0,1 hour,4.4,12th-century ruined mosque with stunning Indo-Islamic arched screen and pillared hall.
+A0385,P047,Nasiyan Jain Temple,Temple,8:30,16:30,15,1 hour,4.6,Spectacular double-storey Jain temple with golden diorama depicting Jain cosmological universe.
+A0386,P047,Government Museum Ajmer,Museum,10:00,16:30,20,1 hour,4.2,Museum in Akbar's former palace displaying Mughal and Rajput armour sculptures and coins.
+A0387,P048,Dilwara Temples,Temple,12:00,18:00,0,2 hours,4.9,Exquisite 11th-century Jain marble temples with the most intricate stone carvings in India.
+A0388,P048,Nakki Lake,Lake,0:00,23:59,0,1 hour,4.5,Scenic sacred lake in Mount Abu with boating caves and the famous Toad Rock.
+A0389,P048,Guru Shikhar,Viewpoint,7:00,19:00,0,1 hour,4.6,Highest peak in Aravalli range at 1722m with Dattatreya temple and sweeping views.
+A0390,P048,Achalgarh Fort,Fort,8:00,18:00,0,1 hour,4.4,15th-century Maharana Kumbha fort with Shiva temple and bronze Nandi statue.
+A0391,P048,Mount Abu Wildlife Sanctuary,Wildlife,6:00,18:00,150,Half Day,4.5,Dense forest sanctuary with leopards sloth bears wild boar and hundreds of bird species.
+A0392,P048,Sunset Point Mount Abu,Viewpoint,16:00,19:00,0,1 hour,4.5,Most popular viewpoint in Mount Abu offering spectacular sunset over Aravalli Valley.
+A0393,P048,Trevor's Tank,Wildlife,7:00,17:00,100,1 hour,4.3,Scenic reservoir built by a British engineer teeming with crocodiles and migratory birds.
+A0394,P049,Rann of Kutch,Nature,0:00,23:59,0,Half Day,4.9,Vast white salt desert stretching 7500 sq km magical under full moon night sky.
+A0395,P049,Dholavira,Historical,9:00,17:00,40,2 hours,4.7,UNESCO-listed Indus Valley Civilisation site with sophisticated ancient water conservation systems.
+A0396,P049,Kutch Museum,Museum,9:00,12:00,10,1 hour,4.3,Oldest museum in Gujarat with archaeological finds textiles weaponry and Kshatrapa inscriptions.
+A0397,P049,Vijay Vilas Palace Kutch,Palace,9:00,18:00,100,1 hour,4.5,Royal summer palace of Kutch rulers with rooftop views of Arabian Sea and desert.
+A0398,P049,Kalo Dungar,Viewpoint,6:00,18:00,0,1 hour,4.6,Highest point in Kutch at 462m with Dattatreya temple and panoramic desert views.
+A0399,P049,Mandvi Beach,Beach,6:00,19:00,0,1 hour,4.5,Picturesque beach near historic Mandvi town with views of traditional dhow boatyard.
+A0400,P049,Aina Mahal Palace,Palace,9:00,12:00,40,1 hour,4.4,18th-century hall of mirrors palace built by Rao Lakhpatji with European-style interiors.
+A0401,P050,Dwarkadhish Temple,Temple,6:00,13:00,0,2 hours,4.9,Ancient five-storey temple dedicated to Lord Krishna with 72-pillar sanctum and spire.
+A0402,P050,Bet Dwarka,Religious,6:00,18:00,0,2 hours,4.6,Sacred island believed to be original residence of Lord Krishna reachable by boat.
+A0403,P050,Rukmini Devi Temple,Temple,7:00,12:00,0,1 hour,4.5,Ancient temple dedicated to Rukmini consort of Lord Krishna two kilometres from Dwarka.
+A0404,P050,Gomti Ghat,Religious,5:00,21:00,0,1 hour,4.5,Sacred riverfront ghat where devotees take ritual dip where Gomti meets Arabian Sea.
+A0405,P050,Dwarka Lighthouse,Viewpoint,16:00,18:00,20,30 mins,4.3,Working lighthouse offering panoramic views of Arabian Sea and Dwarkadhish Temple spire.
+A0406,P050,Nageshwar Jyotirlinga Temple,Temple,6:00,21:00,0,1 hour,4.7,One of twelve sacred Jyotirlinga shrines with massive outdoor Shiva statue near Dwarka.
+A0407,P050,Shivrajpur Beach,Beach,6:00,19:00,0,1 hour,4.5,Blue Flag awarded pristine beach near Dwarka with crystal waters and minimal crowds.
+A0408,P051,Somnath Temple,Temple,6:00,21:30,0,2 hours,4.9,Sacred Jyotirlinga temple rebuilt seven times standing majestically on the Arabian Sea shore.
+A0409,P051,Somnath Beach,Beach,6:00,20:00,0,1 hour,4.4,Serene beach adjacent to Somnath Temple with views of the vast Arabian Sea.
+A0410,P051,Junagadh Gate,Historical,0:00,23:59,0,30 mins,4.2,Ancient gateway near Somnath Temple marking the historic entrance to the temple town.
+A0411,P051,Prabhas Patan Museum,Museum,10:30,17:30,10,1 hour,4.3,Museum displaying sculptures and artifacts excavated from ancient Prabhas Patan region.
+A0412,P051,Triveni Sangam Somnath,Religious,5:00,20:00,0,1 hour,4.5,Sacred confluence of Hiran Kapila and Saraswati rivers near Somnath Temple.
+A0413,P051,Bhalka Tirth,Religious,6:00,20:00,0,1 hour,4.5,Sacred site where Lord Krishna was mistakenly shot by a hunter's arrow.
+A0414,P051,Gita Mandir Somnath,Temple,7:00,21:00,0,30 mins,4.4,White marble temple with complete Bhagavad Gita inscribed on its pillars and walls.
+A0415,P052,Sabarmati Ashram,Historical,8:30,18:30,0,2 hours,4.8,Gandhi's home for 13 years and launchpad of the historic Dandi Salt March in 1930.
+A0416,P052,Adalaj Stepwell,Historical,8:00,18:00,0,1 hour,4.7,Exquisite 15th-century five-storey Indo-Islamic stepwell with intricate ornamental carvings.
+A0417,P052,Sabarmati Riverfront,Nature,6:00,22:00,0,1 hour,4.5,Beautifully developed riverfront promenade ideal for evening walks cycling and leisure.
+A0418,P052,Sidi Saiyyed Mosque,Historical,8:00,18:00,0,30 mins,4.7,16th-century mosque famous for its stunning intricate stone lattice Tree of Life window.
+A0419,P052,Kankaria Lake,Lake,9:00,22:00,25,2 hours,4.5,Largest lake in Ahmedabad with zoo amusement park and balloon rides for families.
+A0420,P052,Jama Masjid Ahmedabad,Historical,6:00,18:00,0,1 hour,4.5,Magnificent 15th-century mosque with 260 columns and exquisite stone lattice screens.
+A0421,P052,Calico Museum of Textiles,Museum,10:30,12:30,0,2 hours,4.7,World-renowned museum with rare antique Indian textiles royal garments and religious fabrics.
+A0422,P052,Hutheesing Jain Temple,Temple,10:00,13:00,0,1 hour,4.6,Ornate 19th-century white marble Jain temple dedicated to Dharmanath with carved pillars.
+A0423,P052,Auto World Vintage Car Museum,Museum,8:00,21:00,200,1 hour,4.5,Impressive private museum with over 100 vintage and classic cars from around the world.
+A0424,P053,Lonavala Lake,Lake,7:00,18:00,0,1 hour,4.4,Scenic reservoir surrounded by misty hills ideal for morning walks and picnics.
+A0425,P053,Bhushi Dam,Nature,9:00,18:00,0,1 hour,4.5,Popular rocky dam where water overflows during monsoon making it a favourite picnic spot.
+A0426,P053,Karla Caves,Historical,9:00,17:30,50,2 hours,4.6,1st-century rock-cut Buddhist caves with India's largest Chaitya hall and ancient carvings.
+A0427,P053,Bhaja Caves,Historical,9:00,17:30,25,1 hour,4.5,Ancient 2nd-century Buddhist caves with carved Chaitya hall viharas and dancing figures.
+A0428,P053,Tiger's Leap,Viewpoint,8:00,18:00,0,1 hour,4.5,Dramatic cliff viewpoint where rocky outcrop juts like a leaping tiger over the valley.
+A0429,P053,Rajmachi Fort,Adventure,6:00,18:00,0,Half Day,4.6,Twin hilltop Maratha forts accessible via popular trekking trail through scenic Sahyadri jungle.
+A0430,P053,Duke's Nose,Viewpoint,6:00,18:00,0,2 hours,4.5,Rock formation resembling Duke of Wellington's nose offering sweeping valley panoramas.
+A0431,P053,Visapur Fort,Adventure,6:00,18:00,0,Half Day,4.4,Maratha hilltop fort near Lonavala popular for trekking with ruins and scenic views.
+A0432,P054,Venna Lake,Lake,8:00,18:00,30,1 hour,4.5,Popular boating lake at the heart of Mahabaleshwar surrounded by forested hills.
+A0433,P054,Elephant's Head Point,Viewpoint,8:00,18:00,0,30 mins,4.5,Unique rock formation resembling an elephant's head with scenic valley views below.
+A0434,P054,Arthur's Seat,Viewpoint,8:00,18:00,0,30 mins,4.6,Queen of all viewpoints in Mahabaleshwar with dramatic 2000-foot sheer drop to valley.
+A0435,P054,Lingmala Waterfall,Nature,9:00,17:30,50,1 hour,4.5,Two-tiered stunning waterfall gushing down rocky cliffs in dense Sahyadri forest.
+A0436,P054,Mahabaleshwar Temple,Temple,6:00,19:00,0,1 hour,4.6,Ancient temple housing a sacred lingam with five streams emerging symbolising five rivers.
+A0437,P054,Pratapgad Fort,Fort,9:00,18:00,25,2 hours,4.7,Historic Maratha fort where Shivaji defeated Afzal Khan in the famous 1659 battle.
+A0438,P054,Wilson Point,Viewpoint,5:30,18:00,0,1 hour,4.6,Highest point in Mahabaleshwar and only place to see both sunrise and sunset.
+A0439,P054,Mapro Garden,Garden,8:00,20:00,0,1 hour,4.5,Famous strawberry garden and food factory offering fresh produce and strawberry treats.
+A0440,P055,Diu Fort,Fort,8:00,18:00,0,2 hours,4.6,Massive 16th-century Portuguese seafront fort with lighthouse bastions and sea-facing cannons.
+A0441,P055,Nagoa Beach,Beach,6:00,20:00,0,2 hours,4.6,Longest and most popular beach in Diu with calm waters and shady hoka palm trees.
+A0442,P055,St Paul's Church Diu,Historical,8:00,18:00,0,1 hour,4.5,Ornate 17th-century Portuguese baroque church with intricate carved facade and peaceful interior.
+A0443,P055,Ghoghla Beach,Beach,6:00,20:00,0,1 hour,4.4,Peaceful longest beach in Diu perfect for swimming and water sports near Gujarat border.
+A0444,P055,Diu Museum,Museum,9:00,12:00,5,1 hour,4.2,Museum inside old Portuguese church displaying Christian art local artifacts and Diu history.
+A0445,P055,Jalandhar Beach,Beach,6:00,20:00,0,1 hour,4.3,Scenic beach near a hilltop Jalandhar Mata temple with a dramatic clifftop view.
+A0446,P055,INS Khukri Memorial Diu,Historical,9:00,18:00,0,30 mins,4.4,Memorial to Indian Navy ship INS Khukri sunk during 1971 Indo-Pakistan war.
+A0447,P056,Tarkarli Beach,Beach,6:00,20:00,0,2 hours,4.7,Pristine white sand beach with crystal-clear water ideal for scuba diving and snorkelling.
+A0448,P056,Sindhudurg Fort,Fort,8:00,18:00,30,2 hours,4.7,Sea fort built by Chhatrapati Shivaji Maharaj on an island in the Arabian Sea.
+A0449,P056,Malvan Beach,Beach,6:00,20:00,0,1 hour,4.5,Popular Konkan beach town known for water sports Malvani cuisine and Sindhudurg Fort views.
+A0450,P056,Devbagh Beach,Beach,6:00,18:00,0,1 hour,4.6,Secluded sandbar island at confluence of Karli River and sea ideal for camping.
+A0451,P056,Rock Garden Tarkarli,Garden,9:00,18:00,0,30 mins,4.2,Small scenic garden near Tarkarli beach ideal for relaxation and sea views.
+A0452,P056,Tsunami Island,Nature,7:00,17:00,200,2 hours,4.5,Sandbar island near Tarkarli reachable by boat offering snorkelling and dolphin spotting.
+A0453,P057,Trimbakeshwar Temple,Temple,5:30,21:00,0,2 hours,4.8,One of twelve sacred Jyotirlinga shrines near source of Godavari river in Nashik.
+A0454,P057,Sula Vineyards,Nature,11:00,22:00,0,2 hours,4.6,India's most famous winery offering vineyard tours wine tasting and resort experience.
+A0455,P057,Panchvati,Religious,5:00,21:00,0,2 hours,4.6,Sacred site where Lord Rama lived during his exile with Sita Gumpha and Ram Kund.
+A0456,P057,Pandavleni Caves,Historical,8:00,18:00,25,2 hours,4.5,Group of 24 ancient Hinayana Buddhist caves with inscriptions dating to 1st century BC.
+A0457,P057,Ramkund,Religious,5:00,21:00,0,1 hour,4.6,Sacred tank where Lord Rama bathed during exile and ashes of the deceased are immersed.
+A0458,P057,Nashik Coin Museum,Museum,10:00,17:30,30,1 hour,4.3,Museum with impressive collection of ancient Indian coins spanning several dynasties and empires.
+A0459,P057,Anjneri Hill,Adventure,6:00,17:00,0,Half Day,4.5,Birthplace of Lord Hanuman offering scenic trek with panoramic Nashik valley views.
+A0460,P058,Gir National Park Safari,Wildlife,6:00,18:00,1200,Half Day,4.9,Only wild habitat of Asiatic lions offering jeep safaris through diverse Sasan Gir forest.
+A0461,P058,Devalia Safari Park,Wildlife,8:00,17:00,400,2 hours,4.6,Enclosed safari park inside Gir offering guaranteed lion sightings in natural habitat.
+A0462,P058,Kamleshwar Dam,Nature,7:00,18:00,0,1 hour,4.4,Scenic dam in Gir forest attracting crocodiles birds and wildlife to its banks.
+A0463,P058,Sinh Sadan Interpretation Centre,Museum,8:00,17:00,0,1 hour,4.3,Visitor centre explaining Gir ecosystem lion behaviour and conservation success story.
+A0464,P058,Kankai Mata Temple,Temple,6:00,18:00,0,1 hour,4.3,Ancient hilltop temple dedicated to Goddess Kankai with scenic forest views nearby.
+A0465,P058,Tulsi Shyam Hot Springs,Nature,7:00,18:00,0,1 hour,4.3,Natural sulphur hot springs with ancient Vishnu temple surrounded by Gir forest.
+A0466,P059,White Rann,Nature,0:00,23:59,0,Half Day,4.9,Vast surreal salt desert stretching endlessly under moonlit sky during Rann Utsav festival.
+A0467,P059,Kalo Dungar Black Hills,Viewpoint,6:00,18:00,0,1 hour,4.6,Highest point of Kutch offering panoramic views of the Rann and feeding wild foxes.
+A0468,P059,Dholavira,Historical,9:00,17:00,40,2 hours,4.8,UNESCO-listed Harappan city with advanced water systems and ancient signboard of Indus script.
+A0469,P059,Rann Utsav Tent City,Nature,0:00,23:59,0,Half Day,4.8,Vibrant cultural festival with folk performances crafts and camel rides on white salt desert.
+A0470,P059,Kutch Desert Wildlife Sanctuary,Wildlife,7:00,17:00,150,Half Day,4.5,Vast sanctuary protecting Indian Wild Ass flamingos and migratory birds in salt marshes.
+A0471,P059,Mandvi Beach,Beach,6:00,19:00,0,1 hour,4.5,Picturesque Kutch beach with views of traditional wooden dhow boatyard and gentle waves.
+A0472,P059,Vijay Vilas Palace,Palace,9:00,18:00,100,1 hour,4.5,Royal summer palace of Kutch royals with rooftop views of Arabian Sea and gardens.
+A0473,P059,Aina Mahal,Palace,9:00,12:00,40,1 hour,4.4,Exquisite 18th-century hall of mirrors palace showcasing European craftsmanship in Bhuj.
+A0474,P060,Sai Baba Samadhi Mandir,Temple,4:00,23:00,0,2 hours,4.9,World-famous temple housing the marble samadhi of saint Sai Baba attracting millions yearly.
+A0475,P060,Dwarkamai Mosque,Religious,6:00,22:00,0,1 hour,4.7,Sacred mosque where Sai Baba spent most of his life with the sacred dhuni fire.
+A0476,P060,Chavadi Shirdi,Religious,6:00,22:00,0,30 mins,4.5,Small mosque where Sai Baba slept on alternate nights as part of daily routine.
+A0477,P060,Shri Sai Baba Museum,Museum,8:00,22:00,0,1 hour,4.5,Museum displaying items used by Sai Baba including robes utensils photos and palanquin.
+A0478,P060,Khandoba Temple Shirdi,Temple,5:00,22:00,0,30 mins,4.4,Ancient hilltop temple dedicated to Lord Khandoba located at the entrance of Shirdi.
+A0479,P060,Lendi Garden Shirdi,Garden,5:30,22:00,0,30 mins,4.4,Garden with a neem tree and well where Sai Baba spent time in meditation daily.
+A0480,P061,Victoria Memorial Kolkata,Museum,10:00,17:00,200,2 hours,4.8,Iconic white marble monument built for Queen Victoria now a museum of British India.
+A0481,P061,Howrah Bridge,Historical,0:00,23:59,0,30 mins,4.7,Iconic cantilever bridge over Hooghly River one of world's busiest and most photographed.
+A0482,P061,Dakshineswar Kali Temple,Temple,6:00,12:30,0,2 hours,4.8,Famous riverside temple where Ramakrishna Paramahamsa worshipped and attained enlightenment.
+A0483,P061,Indian Museum Kolkata,Museum,10:00,17:00,50,3 hours,4.6,Oldest and largest museum in India with collections spanning art archaeology and natural history.
+A0484,P061,Kalighat Kali Temple,Temple,5:00,14:00,0,1 hour,4.6,One of 51 Shakti Peethas dedicated to Goddess Kali in the heart of Kolkata.
+A0485,P061,Park Street Cemetery,Historical,8:00,17:00,0,1 hour,4.4,18th-century colonial cemetery with Gothic tombstones considered most important in Asia.
+A0486,P061,Marble Palace Kolkata,Palace,10:00,16:00,0,1 hour,4.5,19th-century mansion with a private art collection peacocks and European marble sculptures.
+A0487,P061,College Street,Market,9:00,21:00,0,1 hour,4.5,World's largest second-hand book market in Kolkata a paradise for book lovers globally.
+A0488,P061,Belur Math,Religious,6:30,11:30,0,2 hours,4.7,Headquarters of Ramakrishna Math blending Hindu Muslim and Christian architectural elements.
+A0489,P061,New Market Kolkata,Market,10:00,20:00,0,1 hour,4.4,Historic 1874 British-era market with over 2000 shops selling everything under one roof.
+A0490,P062,Tiger Hill,Viewpoint,4:00,8:00,0,2 hours,4.8,Most famous sunrise viewpoint in Darjeeling with stunning Kanchenjunga and Everest panoramas.
+A0491,P062,Darjeeling Himalayan Railway,Historical,6:00,18:00,1200,3 hours,4.9,UNESCO-listed toy train winding through tea estates tunnels and Himalayan mountain scenery.
+A0492,P062,Batasia Loop,Viewpoint,8:00,18:00,20,30 mins,4.6,Scenic railway loop with war memorial and panoramic views of Kanchenjunga range.
+A0493,P062,Padmaja Naidu Himalayan Zoological Park,Wildlife,8:30,16:30,100,2 hours,4.6,High-altitude zoo famous for snow leopards red pandas and Tibetan wolves.
+A0494,P062,Happy Valley Tea Estate,Nature,8:00,16:30,100,1 hour,4.5,One of Darjeeling's oldest tea estates offering factory tours and fresh tea tasting.
+A0495,P062,Ghoom Monastery,Monastery,7:00,18:00,0,1 hour,4.6,Oldest Tibetan Buddhist monastery near Darjeeling housing a nine-foot Maitreya Buddha statue.
+A0496,P062,Peace Pagoda Darjeeling,Religious,5:00,19:00,0,1 hour,4.5,Japanese-built white Buddhist pagoda on hilltop offering valley and mountain views.
+A0497,P062,Mahakal Temple Darjeeling,Temple,5:00,20:00,0,30 mins,4.4,Sacred Shiva temple atop Observatory Hill surrounded by colourful prayer flags and bells.
+A0498,P063,Sundarbans Tiger Reserve,Wildlife,6:00,18:00,250,Half Day,4.8,Largest mangrove forest and tiger reserve in the world spread across India and Bangladesh.
+A0499,P063,Sajnekhali Bird Sanctuary,Wildlife,6:00,18:00,0,2 hours,4.6,Watchtower and sanctuary inside Sundarbans with crocodiles spotted deer and diverse birdlife.
+A0500,P063,Dobanki Watchtower,Wildlife,6:00,18:00,0,1 hour,4.5,Canopy walkway and watchtower offering excellent wildlife viewing inside Sundarbans core zone.
+A0501,P063,Sudhanyakhali Watch Tower,Wildlife,6:00,18:00,0,1 hour,4.5,Popular watchtower with freshwater lake attracting tigers deer and crocodiles regularly.
+A0502,P063,Netidhopani Watch Tower,Wildlife,6:00,18:00,0,1 hour,4.4,Watchtower with ancient 400-year-old temple ruins and frequent wildlife sighting opportunities.
+A0503,P063,Mangrove Boat Safari,Nature,6:00,17:00,500,Half Day,4.7,Guided boat safari through narrow mangrove creek channels spotting wildlife and rare birds.
+A0504,P064,Jagannath Temple Puri,Temple,5:00,0:00,0,2 hours,4.9,12th-century sacred Hindu temple dedicated to Lord Jagannath with towering 65-metre spire.
+A0505,P064,Puri Beach,Beach,0:00,23:59,0,2 hours,4.6,Famous golden beach and one of India's most popular pilgrimage and tourism destinations.
+A0506,P064,Chilika Lake,Lake,6:00,18:00,0,Half Day,4.7,Asia's largest coastal lagoon with Irrawaddy dolphins migratory birds and scenic boat rides.
+A0507,P064,Konark Sun Temple,Historical,6:00,20:00,600,2 hours,4.9,UNESCO-listed 13th-century chariot-shaped temple dedicated to Sun God with erotic carvings.
+A0508,P064,Raghurajpur Heritage Village,Historical,8:00,18:00,0,1 hour,4.5,Living heritage craft village of Odisha where artisans practise Pattachitra and other arts.
+A0509,P064,Sakshigopal Temple,Temple,6:00,21:00,0,1 hour,4.5,Famous Vishnu temple near Puri where the deity is believed to have testified in court.
+A0510,P064,Swargadwar Beach,Beach,0:00,23:59,0,1 hour,4.4,Sacred cremation ghat on Puri Beach where Hindu last rites are conducted beside the sea.
+A0511,P065,Lingaraj Temple,Temple,6:00,21:00,0,2 hours,4.8,Magnificent 11th-century Kalingan temple dedicated to Lord Shiva largest temple in Bhubaneswar.
+A0512,P065,Udayagiri and Khandagiri Caves,Historical,8:00,18:00,25,2 hours,4.6,Ancient Jain rock-cut caves from 2nd century BC with carved reliefs and royal inscriptions.
+A0513,P065,Mukteshwar Temple,Temple,7:00,18:00,0,1 hour,4.7,10th-century jewel of Odisha architecture with exquisite carvings and ornamental torana gateway.
+A0514,P065,Odisha State Museum,Museum,10:00,17:00,10,2 hours,4.4,Museum with impressive collection of natural history Buddhist and Jain antiquities and manuscripts.
+A0515,P065,Rajarani Temple,Temple,8:00,18:00,25,1 hour,4.5,11th-century temple famous for exquisite sculptural art on its tower with no main deity.
+A0516,P065,Nandankanan Zoological Park,Wildlife,8:00,17:30,80,3 hours,4.5,Famous zoo and botanical garden home to rare white tigers crocodiles and giraffes.
+A0517,P065,Parasurameswara Temple,Temple,8:00,18:00,0,1 hour,4.5,7th-century Shiva temple considered the best preserved early Kalingan temple in Bhubaneswar.
+A0518,P065,Bindu Sagar Lake,Lake,5:00,21:00,0,1 hour,4.4,Sacred lake at the centre of Bhubaneswar believed to contain water from all holy rivers.
+A0519,P066,Konark Sun Temple,Historical,6:00,20:00,600,3 hours,4.9,UNESCO-listed 13th-century chariot-shaped Odishan temple with 24 intricately carved stone wheels.
+A0520,P066,Konark Beach,Beach,0:00,23:59,0,1 hour,4.4,Serene beach near Sun Temple ideal for sunrise walks and peaceful coastal atmosphere.
+A0521,P066,Archaeological Museum Konark,Museum,10:00,17:00,25,1 hour,4.4,Museum displaying sculptures and architectural fragments rescued from Konark Sun Temple complex.
+A0522,P066,Chandrabhaga Beach,Beach,0:00,23:59,0,1 hour,4.5,Sacred beach where Chandrabhaga River meets the sea hosting Magha Saptami festival annually.
+A0523,P066,Ramachandi Temple,Temple,6:00,20:00,0,1 hour,4.4,Scenic temple dedicated to Goddess Ramachandi at confluence of Kusabhadra River and sea.
+A0524,P066,Sun Temple Sound and Light Show,Historical,19:00,21:00,100,1 hour,4.6,Dramatic evening sound and light show narrating the history of Konark Sun Temple.
+A0525,P067,Chilika Lake Bird Watching,Wildlife,6:00,18:00,0,Half Day,4.8,Asia's largest coastal lagoon hosting over 160 migratory bird species in winter months.
+A0526,P067,Nalabana Bird Sanctuary,Wildlife,7:00,17:00,150,Half Day,4.7,Core bird sanctuary inside Chilika Lake with flamingos pelicans and rare migratory species.
+A0527,P067,Satapada Dolphin Spotting,Wildlife,7:00,17:00,300,2 hours,4.8,Boat excursion to spot rare Irrawaddy dolphins where Chilika Lake meets the Bay of Bengal.
+A0528,P067,Kalijai Temple,Temple,6:00,18:00,0,2 hours,4.6,Sacred island temple dedicated to Goddess Kalijai reachable by boat across Chilika Lake.
+A0529,P067,Breakfast Island Chilika,Nature,7:00,17:00,200,2 hours,4.5,Seasonal sandbar island inside Chilika Lake attracting thousands of migratory birds annually.
+A0530,P067,Rambha Bay,Nature,6:00,18:00,0,1 hour,4.4,Scenic bay area of Chilika Lake with mangroves fishing villages and peaceful boat rides.
+A0531,P067,Mangalajodi Ecotourism,Wildlife,6:00,18:00,300,Half Day,4.7,Award-winning community ecotourism site with exceptional birdwatching across Chilika wetlands.
+A0532,P068,Golghar,Historical,9:00,17:00,25,1 hour,4.5,Unique beehive-shaped 1786 British granary offering panoramic views over Patna and Ganges.
+A0533,P068,Patna Museum,Museum,10:30,16:30,15,2 hours,4.5,Finest museum in Bihar with Didarganj Yakshi statue and Buddhist Jain Hindu artifacts.
+A0534,P068,Mahavir Mandir Patna,Temple,5:00,21:00,0,1 hour,4.7,One of India's most visited Hanuman temples with massive daily devotee footfall.
+A0535,P068,Takht Sri Patna Sahib,Religious,4:00,22:00,0,1 hour,4.7,One of five Takhts of Sikhism birthplace of Guru Gobind Singh Ji in Patna.
+A0536,P068,Agam Kuan,Historical,6:00,18:00,0,30 mins,4.2,Ancient well from Mauryan Emperor Ashoka's era believed to have mysterious depth and powers.
+A0537,P068,Kumhrar Archaeological Site,Historical,9:00,17:00,25,1 hour,4.3,Ruins of ancient Pataliputra capital of Maurya Empire with 80-pillared assembly hall.
+A0538,P068,Sanjay Gandhi Botanical Garden,Garden,6:00,18:00,30,1 hour,4.2,Large botanical garden on Ganges bank with rare plant species and peaceful walking paths.
+A0539,P069,Mahabodhi Temple,Temple,5:00,21:00,0,2 hours,4.9,UNESCO-listed sacred temple marking exact spot where Buddha attained enlightenment in 528 BC.
+A0540,P069,Bodhi Tree,Religious,5:00,21:00,0,1 hour,4.9,Sacred Peepal tree descendant of original tree under which Gautama Buddha attained enlightenment.
+A0541,P069,Animesh Lochana Chaitya,Religious,6:00,18:00,0,30 mins,4.6,Sacred site where Buddha stood gazing at Bodhi Tree in gratitude after enlightenment.
+A0542,P069,Sujata Stupa,Historical,7:00,18:00,0,1 hour,4.4,Ancient stupa built at spot where village woman Sujata offered rice pudding to Buddha.
+A0543,P069,Royal Bhutan Monastery,Monastery,9:00,18:00,0,1 hour,4.5,Ornate Bhutanese-style monastery with stunning murals golden statues and peaceful meditation halls.
+A0544,P069,Thai Monastery Bodh Gaya,Monastery,8:00,17:00,0,30 mins,4.4,Elegant Thai-style Buddhist temple with white and gold exterior and intricate Thai architecture.
+A0545,P069,Indosan Nippon Japanese Temple,Monastery,9:00,17:00,0,30 mins,4.4,Japanese-style pagoda temple with beautiful gardens and large Buddha statue inside complex.
+A0546,P069,Archaeological Museum Bodh Gaya,Museum,10:00,17:00,25,1 hour,4.4,Museum with sculptures railings and artifacts excavated from Mahabodhi Temple complex area.
+A0547,P070,Nalanda Archaeological Ruins,Historical,9:00,17:30,100,2 hours,4.8,UNESCO-listed ruins of ancient world's first residential university founded in 5th century AD.
+A0548,P070,Nalanda Archaeological Museum,Museum,10:00,17:00,25,1 hour,4.6,Museum housing over 13000 artifacts sculptures and manuscripts excavated from Nalanda ruins.
+A0549,P070,Hieun Tsang Memorial Hall,Historical,9:00,17:00,0,1 hour,4.4,Memorial dedicated to Chinese scholar and traveller who studied at ancient Nalanda University.
+A0550,P070,Nalanda Multimedia Museum,Museum,9:00,17:30,100,1 hour,4.5,Modern multimedia museum reconstructing ancient Nalanda University life with digital exhibits.
+A0551,P070,Surya Mandir Nalanda,Temple,6:00,18:00,0,30 mins,4.3,Ancient sun temple near Nalanda ruins dedicated to the Sun God with carved stone panels.
+A0552,P071,Digha Beach,Beach,0:00,23:59,0,2 hours,4.5,Wide sandy beach on Bay of Bengal popular with Bengali tourists for sea bathing.
+A0553,P071,New Digha Beach,Beach,0:00,23:59,0,2 hours,4.4,Quieter extended beach area with cleaner sands better amenities and seaside promenade.
+A0554,P071,Marine Aquarium Digha,Museum,10:00,17:30,30,1 hour,4.3,Aquarium displaying diverse marine species found in Bay of Bengal including seahorses and turtles.
+A0555,P071,Udaipur Beach,Beach,0:00,23:59,0,1 hour,4.3,Secluded beach near Digha ideal for peaceful walks away from the main tourist crowds.
+A0556,P071,Talsari Beach,Beach,0:00,23:59,0,1 hour,4.4,Serene beach at Odisha-West Bengal border with casuarina groves and peaceful atmosphere.
+A0557,P072,Bishnupur Terracotta Temples,Temple,9:00,17:30,25,3 hours,4.7,Remarkable cluster of 17th-century terracotta temples with intricate mythological panels and motifs.
+A0558,P072,Rasmancha Temple,Temple,9:00,17:30,25,1 hour,4.6,Unique 1600 CE laterite pyramidal temple used to display deities during Ras festival.
+A0559,P072,Jor Bangla Temple,Temple,9:00,17:30,25,1 hour,4.5,Famous twin-hut style terracotta temple with exquisite panels depicting Ramayana and Mahabharata.
+A0560,P072,Shyam Rai Temple,Temple,9:00,17:30,25,1 hour,4.5,17th-century terracotta temple with five towers and elaborate panels showing scenes from epics.
+A0561,P072,Bishnupur Museum,Museum,10:00,17:00,20,1 hour,4.3,Small museum displaying terracotta artifacts coins weapons and Bishnupur Malla dynasty history.
+A0562,P072,Madan Mohan Temple Bishnupur,Temple,9:00,17:30,25,1 hour,4.4,Imposing tall-towered 1694 terracotta temple dedicated to Lord Krishna in Bishnupur town.
+A0563,P072,Lalji Temple Bishnupur,Temple,9:00,17:30,25,30 mins,4.3,Five-spired 1658 CE terracotta temple with intricate carvings dedicated to Lord Krishna.
+A0564,P073,Rumtek Monastery,Monastery,7:00,18:00,0,2 hours,4.8,Largest monastery in Sikkim headquarters of Karma Kagyu lineage with golden stupa and murals.
+A0565,P073,Tsomgo Lake,Lake,8:00,17:00,0,2 hours,4.8,Sacred glacial lake at 3753m on Gangtok-Nathu La highway revered by local Sikkimese people.
+A0566,P073,Nathu La Pass,Viewpoint,8:00,15:00,0,2 hours,4.7,Historic Silk Route mountain pass at 4310m on Indo-China border with dramatic mountain views.
+A0567,P073,Pemayangtse Monastery,Monastery,7:00,18:00,50,2 hours,4.7,One of oldest and most prestigious monasteries in Sikkim with seven-storey wooden structure.
+A0568,P073,Gurudongmar Lake,Lake,7:00,16:00,0,Half Day,4.9,Sacred glacial lake at 5430m one of world's highest lakes with stunning Himalayan vistas.
+A0569,P073,Enchey Monastery,Monastery,7:00,18:00,0,1 hour,4.5,200-year-old monastery perched on hilltop in Gangtok with beautiful valley and mountain views.
+A0570,P073,Yumthang Valley,Nature,7:00,17:00,200,Half Day,4.8,Valley of flowers at 3564m carpeted with rhododendrons primulas and Himalayan flora in spring.
+A0571,P073,Namchi Rock Garden,Garden,9:00,18:00,50,1 hour,4.3,Terraced rock garden with statues of Sikkimese flowers and Himalayan plants near Namchi.
+A0572,P074,Deolo Hill,Viewpoint,6:00,18:00,30,1 hour,4.6,Highest point in Kalimpong offering spectacular panoramic views of Kanchenjunga and Teesta Valley.
+A0573,P074,Zang Dhok Palri Phodang Monastery,Monastery,8:00,17:00,0,1 hour,4.5,Important Nyingma monastery housing rare scriptures and religious texts in Kalimpong.
+A0574,P074,Durpin Dara Hill,Viewpoint,6:00,18:00,0,1 hour,4.5,Hilltop monastery and viewpoint with commanding 360-degree Himalayan panorama and Teesta views.
+A0575,P074,Himalayan Eagle Nest,Viewpoint,6:00,18:00,0,1 hour,4.4,Scenic viewpoint offering sweeping views of valleys Teesta River and surrounding Himalayan peaks.
+A0576,P074,Kalimpong Science City,Museum,10:00,17:30,60,1 hour,4.2,Interactive science museum ideal for families with children with hands-on exhibits and activities.
+A0577,P074,Mangal Dham Temple,Temple,6:00,19:00,0,30 mins,4.4,Colourful Hindu temple dedicated to Lord Krishna with decorative murals and peaceful surroundings.
+A0578,P074,Cactus Nursery Kalimpong,Garden,9:00,17:00,0,1 hour,4.3,One of Asia's largest collections of cactus and succulents cultivated in Kalimpong's mild climate.
+A0579,P075,Elephant Falls,Nature,8:00,17:30,20,1 hour,4.6,Three-tiered enchanting waterfall nicknamed Uncle Don's Falls nestled in dense Shillong forest.
+A0580,P075,Shillong Peak,Viewpoint,9:00,17:00,50,1 hour,4.6,Highest point in Shillong at 1965m offering sweeping panoramic views of surrounding hills.
+A0581,P075,Ward's Lake,Lake,8:30,17:30,20,1 hour,4.5,Scenic man-made lake at heart of Shillong with boating facility and manicured gardens.
+A0582,P075,Don Bosco Museum,Museum,9:00,17:30,100,2 hours,4.7,Seven-storey museum showcasing rich cultural heritage of Northeast India's tribal communities.
+A0583,P075,Umiam Lake,Lake,8:00,17:30,0,1 hour,4.6,Large reservoir called Barapani offering stunning views water sports and picnic spots.
+A0584,P075,Cathedral of Mary Help of Christians,Historical,8:00,18:00,0,30 mins,4.5,One of Northeast India's largest churches built in gothic style in the heart of Shillong.
+A0585,P075,Police Bazar,Market,9:00,21:00,0,1 hour,4.4,Bustling commercial heart of Shillong with shops restaurants street food and local handicrafts.
+A0586,P075,Mawphlang Sacred Forest,Nature,9:00,16:00,100,2 hours,4.7,Ancient protected forest considered sacred by Khasi tribes preserving centuries-old biodiversity.
+A0587,P076,Nohkalikai Falls,Nature,8:00,17:30,50,1 hour,4.9,India's tallest plunge waterfall at 340m with a stunning turquoise blue pool at base.
+A0588,P076,Living Root Bridges,Nature,7:00,18:00,50,Half Day,4.9,Extraordinary bio-engineering by Khasi tribe using aerial roots of rubber trees as bridges.
+A0589,P076,Mawsmai Cave,Nature,9:00,17:00,30,1 hour,4.5,Illuminated limestone cave with narrow passages stalactites and stalagmites popular with visitors.
+A0590,P076,Seven Sisters Falls,Nature,8:00,17:00,0,1 hour,4.7,Majestic seven-segmented waterfall also called Nohsngithiang Falls visible from Cherrapunji viewpoint.
+A0591,P076,Eco Park Cherrapunji,Garden,9:00,17:30,50,2 hours,4.4,Scenic park overlooking Bangladesh plains with views of Seven Sisters Falls and green valley.
+A0592,P076,Dainthlen Falls,Nature,8:00,17:00,0,30 mins,4.4,Scenic waterfall associated with Khasi legend of a giant serpent killed by ancestors.
+A0593,P076,Wakaba Falls,Nature,8:00,17:00,0,30 mins,4.3,Peaceful waterfall near Cherrapunji surrounded by lush subtropical vegetation and rock formations.
+A0594,P076,Thangkharang Park,Viewpoint,9:00,17:00,30,1 hour,4.5,Hilltop park offering breathtaking views of Bangladesh plains and a seasonal waterfall nearby.
+A0595,P077,Kaziranga Elephant Safari,Wildlife,5:30,7:30,1500,2 hours,4.9,Iconic early morning elephant back safari through tall grass for close rhino encounters.
+A0596,P077,Kaziranga Jeep Safari,Wildlife,7:00,11:00,1200,3 hours,4.8,Thrilling jeep safari through Central Western and Eastern zones spotting rhinos tigers and elephants.
+A0597,P077,Central Range Kaziranga,Wildlife,7:00,11:00,1200,Half Day,4.8,Most popular safari zone offering highest density of one-horned rhinos and water buffalo.
+A0598,P077,Western Range Kaziranga,Wildlife,7:00,11:00,1200,Half Day,4.7,Scenic range with excellent rhino sightings and wild elephant herds near Bagori area.
+A0599,P077,Eastern Range Kaziranga,Wildlife,7:00,11:00,1200,Half Day,4.6,Largest and most remote range with high biodiversity and quieter safari experience.
+A0600,P077,Kaziranga National Orchid Garden,Garden,8:00,17:00,50,1 hour,4.3,Garden with over 500 orchid species and biodiversity park near Kohora Kaziranga entry gate.
+A0601,P077,Tea Garden Landscape Kaziranga,Nature,8:00,17:00,0,1 hour,4.4,Scenic tea estates framing Kaziranga park with Brahmaputra River and Himalayan backdrops.
+A0602,P078,Mawlynnong Village,Nature,7:00,18:00,50,2 hours,4.8,Asia's cleanest village with immaculate gardens bamboo dustbins and community cleanliness pride.
+A0603,P078,Living Root Bridge Mawlynnong,Nature,7:00,18:00,50,1 hour,4.8,Natural bridge formed by training roots of rubber fig trees over centuries by Khasi people.
+A0604,P078,Sky Walk Mawlynnong,Viewpoint,8:00,17:00,30,30 mins,4.5,Bamboo treehouse viewpoint offering panoramic views of Bangladesh plains and rolling hills.
+A0605,P078,Balancing Rock Mawlynnong,Nature,0:00,23:59,0,30 mins,4.4,Massive naturally balanced boulder precariously perched atop smaller rocks near Mawlynnong village.
+A0606,P078,Dawki River,Nature,7:00,18:00,0,2 hours,4.7,Crystal-clear turquoise river on India-Bangladesh border with glass boat rides and camping.
+A0607,P079,Tawang Monastery,Monastery,7:00,17:00,50,3 hours,4.9,India's largest Buddhist monastery founded in 1681 with rare scriptures and golden Buddha statues.
+A0608,P079,Sela Pass,Viewpoint,0:00,23:59,0,1 hour,4.8,High-altitude mountain pass at 4170m with pristine lake and dramatic snow-capped Himalayan views.
+A0609,P079,Madhuri Lake,Lake,7:00,16:00,0,1 hour,4.7,Stunning high-altitude lake set against snow peaks popularised by a Bollywood film shoot.
+A0610,P079,Nuranang Falls,Nature,7:00,17:00,0,1 hour,4.7,Dramatic multi-tiered waterfall also called Bong Bong Falls in scenic Tawang district valley.
+A0611,P079,Tawang War Memorial,Historical,8:00,18:00,0,1 hour,4.7,Poignant memorial honouring soldiers who died in 1962 Sino-Indian War in Tawang region.
+A0612,P079,Urgelling Monastery,Monastery,7:00,17:00,0,1 hour,4.5,Birthplace of the sixth Dalai Lama with original prayer hall and ancient religious artifacts.
+A0613,P079,Pankang Teng Tso Lake,Lake,7:00,16:00,0,1 hour,4.5,Sacred high-altitude lake near Tawang town reflecting surrounding snow-clad Himalayan peaks.
+A0614,P079,Ani Gompa Tawang,Monastery,7:00,17:00,0,30 mins,4.4,Nunnery monastery in Tawang district housing Buddhist nuns practising traditional Vajrayana rituals.
+A0615,P080,Ziro Valley,Nature,0:00,23:59,0,Half Day,4.8,Lush UNESCO-nominated valley with pine-clad hills paddy fields and Apatani tribal villages.
+A0616,P080,Talley Valley Wildlife Sanctuary,Wildlife,7:00,17:00,150,Half Day,4.6,Remote sanctuary with virgin subtropical forests rare orchids clouded leopards and red pandas.
+A0617,P080,Apatani Village Ziro,Historical,7:00,18:00,0,2 hours,4.7,Traditional village of Apatani tribe known for unique nose plugs and intricate bamboo crafts.
+A0618,P080,Ziro Music Festival Grounds,Nature,0:00,23:59,0,1 hour,4.6,Venue of India's most scenic open-air music festival held annually under Ziro pine hills.
+A0619,P080,Tarin Fish Farm,Nature,8:00,17:00,0,1 hour,4.3,Traditional Apatani fish and paddy farming system demonstrating indigenous sustainable agricultural practices.
+A0620,P080,Dolo Mando Hills,Viewpoint,6:00,18:00,0,2 hours,4.5,Scenic hilltop viewpoint above Ziro Valley offering sweeping views of paddy fields and pine forests.
+A0621,P080,Kile Pakho,Viewpoint,6:00,18:00,0,1 hour,4.4,Sacred hilltop overlooking the Ziro Valley with ancient tribal shrines and panoramic views.

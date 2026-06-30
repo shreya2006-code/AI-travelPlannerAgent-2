@@ -1,0 +1,10 @@
+fastapi==0.128.0
+uvicorn==0.40.0
+pandas==2.3.3
+numpy==2.2.6
+groq==1.4.0
+httpx==0.28.1
+python-dotenv==1.2.1
+pydantic==2.12.5
+python-multipart==0.0.22
+watchfiles==1.1.1

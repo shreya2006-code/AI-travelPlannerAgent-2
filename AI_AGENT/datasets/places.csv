@@ -1,0 +1,81 @@
+﻿place_id,place_name,state,category,ideal_days,best_time,avg_budget,description,nearest_airport,nearest_railway_station
+P001,Agra,Uttar Pradesh,Heritage,2,October-March,5000,Home of the iconic Taj Mahal and rich Mughal-era architecture.,Agra Airport,Agra Cantt Railway Station
+P002,Jaipur,Rajasthan,Heritage,3,October-March,6000,The Pink City famous for forts palaces and vibrant Rajasthani culture.,Jaipur International Airport,Jaipur Junction Railway Station
+P003,Varanasi,Uttar Pradesh,Spiritual,3,November-March,4500,Ancient holy city on the Ganges renowned for ghats and spiritual rituals.,Lal Bahadur Shastri International Airport,Varanasi Junction Railway Station
+P004,Delhi,Delhi,Heritage,3,October-March,7000,India's capital blending Mughal heritage modern life and diverse street food.,Indira Gandhi International Airport,New Delhi Railway Station
+P005,Rishikesh,Uttarakhand,Spiritual,3,September-November,4000,Yoga capital of the world nestled in Himalayas along the sacred Ganges.,Jolly Grant Airport,Rishikesh Railway Station
+P006,Manali,Himachal Pradesh,Hill Station,4,October-June,6500,Scenic mountain town offering snow peaks adventure sports and lush valleys.,Kullu Manali Airport,Joginder Nagar Railway Station
+P007,Shimla,Himachal Pradesh,Hill Station,3,March-June,5500,Charming colonial hill station with toy train rides and panoramic Himalayan views.,Shimla Airport,Kalka Railway Station
+P008,Leh,Ladakh,Adventure,5,May-September,9000,High-altitude desert landscape with Buddhist monasteries stunning passes and starry skies.,Kushok Bakula Rimpochee Airport,Jammu Tawi Railway Station
+P009,Haridwar,Uttarakhand,Spiritual,2,February-April,3500,Sacred city on the Ganges famous for Ganga Aarti and ancient Hindu temples.,Jolly Grant Airport,Haridwar Railway Station
+P010,Amritsar,Punjab,Spiritual,2,October-March,4000,Home to the majestic Golden Temple and the historic Wagah Border ceremony.,Sri Guru Ram Dass Jee International Airport,Amritsar Junction Railway Station
+P011,Nainital,Uttarakhand,Hill Station,3,March-June,5000,Charming lake town nestled in Kumaon Himalayas with boating and scenic views.,Pantnagar Airport,Kathgodam Railway Station
+P012,Mussoorie,Uttarakhand,Hill Station,3,March-June,5500,Queen of Hills offering colonial charm waterfalls and stunning Himalayan panoramas.,Jolly Grant Airport,Dehradun Railway Station
+P013,Mathura,Uttar Pradesh,Spiritual,2,October-March,3500,Birthplace of Lord Krishna with ancient temples ghats and vibrant festivals.,Agra Airport,Mathura Junction Railway Station
+P014,Vrindavan,Uttar Pradesh,Spiritual,2,October-March,3000,Sacred town where Lord Krishna spent his childhood surrounded by hundreds of temples.,Agra Airport,Mathura Junction Railway Station
+P015,Jim Corbett,Uttarakhand,Wildlife,3,November-June,8000,India's oldest national park famous for Bengal tigers and rich biodiversity.,Pantnagar Airport,Ramnagar Railway Station
+P016,Dehradun,Uttarakhand,Nature,2,September-June,4500,Scenic Doon Valley gateway to Uttarakhand with pleasant climate and heritage institutions.,Jolly Grant Airport,Dehradun Railway Station
+P017,Spiti Valley,Himachal Pradesh,Adventure,5,May-October,7000,Remote high-altitude cold desert valley with ancient monasteries and dramatic landscapes.,Kullu Manali Airport,Shimla Railway Station
+P018,Dharamshala,Himachal Pradesh,Hill Station,3,March-June,5000,Tibetan cultural hub in Himachal Pradesh home to Dalai Lama and lush tea gardens.,Gaggal Airport,Pathankot Railway Station
+P019,Pushkar,Rajasthan,Spiritual,2,October-March,4000,Sacred lake town famous for the only Brahma temple and vibrant camel fair.,Jaipur International Airport,Ajmer Railway Station
+P020,Jaisalmer,Rajasthan,Desert,3,October-March,6000,Golden City rising from Thar Desert with sandstone fort havelis and camel safaris.,Jaisalmer Airport,Jaisalmer Railway Station
+P021,Munnar,Kerala,Hill Station,3,September-March,5500,Scenic Kerala hill station blanketed with sprawling tea gardens mist and waterfalls.,Cochin International Airport,Aluva Railway Station
+P022,Ooty,Tamil Nadu,Hill Station,3,October-June,5000,Queen of Nilgiris offering tea gardens toy train rides and pleasant cool climate.,Coimbatore International Airport,Ooty Railway Station
+P023,Coorg,Karnataka,Nature,3,October-March,6000,Scotland of India renowned for coffee plantations misty hills and rich tribal culture.,Mangalore International Airport,Mysuru Railway Station
+P024,Mysuru,Karnataka,Heritage,3,October-March,5000,Royal city famous for magnificent Mysore Palace vibrant Dasara festival and sandalwood.,Mysuru Airport,Mysuru Railway Station
+P025,Hampi,Karnataka,Heritage,3,October-February,4000,UNESCO World Heritage ruins of the magnificent medieval Vijayanagara Empire capital.,Hubli Airport,Hospete Railway Station
+P026,Kochi,Kerala,Heritage,3,September-March,5500,Vibrant port city blending colonial heritage Chinese fishing nets and backwater charm.,Cochin International Airport,Ernakulam Junction Railway Station
+P027,Alleppey,Kerala,Nature,2,November-February,5000,Venice of the East famous for tranquil backwater houseboat cruises and serene canals.,Cochin International Airport,Alappuzha Railway Station
+P028,Kovalam,Kerala,Beach,3,September-March,5500,Crescent-shaped lighthouse beach destination popular for Ayurveda surfing and seafood.,Trivandrum International Airport,Thiruvananthapuram Central Railway Station
+P029,Mahabalipuram,Tamil Nadu,Heritage,2,November-February,4000,UNESCO-listed ancient port town with stunning rock-cut temples and shore monuments.,Chennai International Airport,Chennai Egmore Railway Station
+P030,Pondicherry,Puducherry,Heritage,3,October-March,5000,Charming French colonial town with colourful boulevards ashrams beaches and cafes.,Puducherry Airport,Puducherry Railway Station
+P031,Madurai,Tamil Nadu,Spiritual,3,October-March,4000,Ancient temple city dominated by the magnificent Meenakshi Amman Temple and rich culture.,Madurai Airport,Madurai Junction Railway Station
+P032,Rameswaram,Tamil Nadu,Spiritual,2,October-March,3500,Sacred island town with Ramanathaswamy Temple and India's longest temple corridor.,Madurai Airport,Rameswaram Railway Station
+P033,Tirupati,Andhra Pradesh,Spiritual,2,September-February,4000,Home to the richest and most visited Hindu temple Venkateswara atop Tirumala hills.,Tirupati Airport,Tirupati Railway Station
+P034,Wayanad,Kerala,Wildlife,3,October-May,5500,Lush highland district with wildlife sanctuaries waterfalls tribal culture and coffee estates.,Calicut International Airport,Kozhikode Railway Station
+P035,Chikmagalur,Karnataka,Nature,3,September-March,5000,Coffee country hill destination with misty peaks trekking trails and colonial bungalows.,Mangalore International Airport,Chikmagalur Railway Station
+P036,Kodaikanal,Tamil Nadu,Hill Station,3,October-June,5000,Princess of Hill Stations with a star-shaped lake pine forests and misty valleys.,Madurai Airport,Kodai Road Railway Station
+P037,Varkala,Kerala,Beach,3,October-March,5000,Stunning clifftop beach destination with mineral springs Ayurveda and vibrant sunset cafes.,Trivandrum International Airport,Varkala Railway Station
+P038,Badami,Karnataka,Heritage,2,October-February,3500,Ancient cave temple town carved in red sandstone by the early Chalukya dynasty.,Hubli Airport,Badami Railway Station
+P039,Yercaud,Tamil Nadu,Hill Station,2,October-June,4000,Jewel of the South with coffee plantations orange groves scenic lake and waterfalls.,Salem Airport,Salem Railway Station
+P040,Vizag,Andhra Pradesh,Beach,3,October-February,5000,Port city with pristine beaches submarine museum scenic hills and vibrant seafood culture.,Visakhapatnam Airport,Visakhapatnam Railway Station
+P041,Goa,Goa,Beach,4,November-February,7000,India's beach paradise with golden sands Portuguese heritage vibrant nightlife and seafood.,Goa International Airport,Madgaon Railway Station
+P042,Mumbai,Maharashtra,Heritage,3,November-February,8000,India's financial capital blending colonial architecture Bollywood beaches and street food.,Chhatrapati Shivaji Maharaj International Airport,Chhatrapati Shivaji Maharaj Terminus
+P043,Pune,Maharashtra,Heritage,2,October-February,6000,Oxford of the East with Maratha forts colonial cantonment and vibrant cafe culture.,Pune Airport,Pune Junction Railway Station
+P044,Aurangabad,Maharashtra,Heritage,3,November-March,5000,Gateway to Ajanta and Ellora Caves with Mughal monuments and Bibi Ka Maqbara.,Aurangabad Airport,Aurangabad Railway Station
+P045,Udaipur,Rajasthan,Heritage,3,September-March,6500,City of Lakes with romantic palaces shimmering lakes and Aravalli hill backdrops.,Maharana Pratap Airport,Udaipur City Railway Station
+P046,Jodhpur,Rajasthan,Heritage,3,October-March,5500,Blue City dominated by the mighty Mehrangarh Fort and vibrant bazaars.,Jodhpur Airport,Jodhpur Junction Railway Station
+P047,Ajmer,Rajasthan,Spiritual,2,October-March,3500,Sacred city housing the revered Dargah of Sufi saint Khwaja Moinuddin Chishti.,Kishangarh Airport,Ajmer Junction Railway Station
+P048,Mount Abu,Rajasthan,Hill Station,2,March-June,4500,Rajasthan's only hill station with marble Dilwara Temples scenic lakes and sunsets.,Udaipur Airport,Abu Road Railway Station
+P049,Kutch,Gujarat,Desert,3,November-February,5000,Home to the vast white Rann salt desert vibrant handicrafts and tribal culture.,Bhuj Airport,Bhuj Railway Station
+P050,Dwarka,Gujarat,Spiritual,2,October-March,3500,One of Hinduism's holiest Char Dham pilgrimage cities and ancient kingdom of Lord Krishna.,Jamnagar Airport,Dwarka Railway Station
+P051,Somnath,Gujarat,Spiritual,2,October-March,3500,Ancient coastal Jyotirlinga temple rebuilt seven times standing proudly on Arabian Sea.,Diu Airport,Veraval Railway Station
+P052,Ahmedabad,Gujarat,Heritage,3,October-February,5000,UNESCO World Heritage city with historic pol neighbourhoods Gandhi's ashram and street food.,Sardar Vallabhbhai Patel International Airport,Ahmedabad Junction Railway Station
+P053,Lonavala,Maharashtra,Nature,2,June-September,4500,Popular hill station with scenic ghats valleys waterfalls caves and famous chikki sweets.,Pune Airport,Lonavala Railway Station
+P054,Mahabaleshwar,Maharashtra,Hill Station,3,October-June,5500,Maharashtra's premier hill station with strawberry farms scenic viewpoints and Venna Lake.,Pune Airport,Wathar Railway Station
+P055,Diu,Dadra and Nagar Haveli and Daman and Diu,Beach,3,October-March,4500,Peaceful Portuguese island enclave with pristine beaches old fort and relaxed coastal vibe.,Diu Airport,Delwada Railway Station
+P056,Tarkarli,Maharashtra,Beach,3,October-March,4500,Pristine Konkan beach destination famous for crystal-clear water scuba diving and water sports.,Sindhudurg Airport,Kudal Railway Station
+P057,Nashik,Maharashtra,Spiritual,2,October-March,4000,Sacred city on Godavari river hosting Kumbh Mela with ancient temples and wine vineyards.,Ozar Airport,Nashik Road Railway Station
+P058,Sasan Gir,Gujarat,Wildlife,3,December-March,6000,Only home of wild Asiatic lions on earth inside Gir National Park and Wildlife Sanctuary.,Diu Airport,Junagadh Railway Station
+P059,Rann of Kutch,Gujarat,Desert,3,November-February,5500,Vast surreal white salt desert hosting the vibrant Rann Utsav festival under moonlit skies.,Bhuj Airport,Bhuj Railway Station
+P060,Shirdi,Maharashtra,Spiritual,2,October-March,3500,Sacred pilgrimage town housing the Sai Baba Samadhi Mandir visited by millions annually.,Aurangabad Airport,Sainagar Shirdi Railway Station
+P061,Kolkata,West Bengal,Heritage,3,October-February,6000,Cultural capital of India with colonial architecture Durga Puja trams and iconic street food.,Netaji Subhas Chandra Bose International Airport,Howrah Junction Railway Station
+P062,Darjeeling,West Bengal,Hill Station,4,March-May,6000,Queen of Hills famous for toy train tea gardens and stunning Kanchenjunga sunrise views.,Bagdogra Airport,New Jalpaiguri Railway Station
+P063,Sundarbans,West Bengal,Wildlife,3,September-March,6500,World's largest mangrove delta home to Royal Bengal Tigers and unique estuarine ecosystem.,Netaji Subhas Chandra Bose International Airport,Canning Railway Station
+P064,Puri,Odisha,Spiritual,3,October-February,4000,Sacred coastal city with Jagannath Temple golden beaches and annual Rath Yatra chariot festival.,Biju Patnaik International Airport,Puri Railway Station
+P065,Bhubaneswar,Odisha,Heritage,2,October-March,4500,Temple city of India with over 700 ancient temples and rich Kalinga architectural heritage.,Biju Patnaik International Airport,Bhubaneswar Railway Station
+P066,Konark,Odisha,Heritage,2,October-March,4000,UNESCO-listed 13th-century Sun Temple shaped like a colossal chariot with intricate carvings.,Biju Patnaik International Airport,Puri Railway Station
+P067,Chilika Lake,Odisha,Nature,2,November-February,4000,Asia's largest coastal lagoon with Irrawaddy dolphins flamingos and scenic island boat rides.,Biju Patnaik International Airport,Balugaon Railway Station
+P068,Patna,Bihar,Heritage,2,October-March,4000,Ancient capital of Magadha Empire with rich Buddhist Mughal and colonial historical legacy.,Lok Nayak Jayaprakash Airport,Patna Junction Railway Station
+P069,Bodh Gaya,Bihar,Spiritual,2,October-March,3500,Holiest Buddhist site where Gautama Buddha attained enlightenment under the sacred Bodhi Tree.,Gaya Airport,Gaya Junction Railway Station
+P070,Nalanda,Bihar,Heritage,2,October-March,3000,Ruins of the world's first residential university attracting scholars from across ancient Asia.,Gaya Airport,Rajgir Railway Station
+P071,Digha,West Bengal,Beach,2,October-March,3500,Popular seaside resort near Kolkata with wide sandy beaches calm waves and seafood.,Netaji Subhas Chandra Bose International Airport,Digha Railway Station
+P072,Bishnupur,West Bengal,Heritage,2,October-March,3500,Terracotta temple town of the Malla kings famous for unique red-brick architectural heritage.,Netaji Subhas Chandra Bose International Airport,Bishnupur Railway Station
+P073,Sikkim,Sikkim,Nature,5,March-May,7000,Himalayan state with snow peaks Buddhist monasteries rhododendron forests and Kanchenjunga views.,Pakyong Airport,New Jalpaiguri Railway Station
+P074,Kalimpong,West Bengal,Hill Station,3,October-May,5500,Charming hill town with flower nurseries Tibetan monasteries and stunning Kanchenjunga vistas.,Bagdogra Airport,New Jalpaiguri Railway Station
+P075,Shillong,Meghalaya,Hill Station,3,September-May,5500,Scotland of the East with rolling hills waterfalls colonial charm and vibrant music culture.,Shillong Airport,Guwahati Railway Station
+P076,Cherrapunji,Meghalaya,Nature,2,September-May,4500,One of the wettest places on Earth with living root bridges and stunning waterfalls.,Shillong Airport,Guwahati Railway Station
+P077,Kaziranga,Assam,Wildlife,3,November-April,6500,UNESCO World Heritage park home to two-thirds of world's one-horned rhinoceros population.,Jorhat Airport,Furkating Railway Station
+P078,Mawlynnong,Meghalaya,Nature,2,September-May,4000,Asia's cleanest village with living root bridges tree houses and scenic Bangladesh border views.,Shillong Airport,Guwahati Railway Station
+P079,Tawang,Arunachal Pradesh,Spiritual,4,March-October,6000,Remote Himalayan town with India's largest Buddhist monastery stunning snow-capped mountain landscapes.,Tezpur Airport,Rangapara North Railway Station
+P080,Ziro,Arunachal Pradesh,Nature,3,March-October,5000,Picturesque valley of Apatani tribe famous for pine hills paddy fields and music festival.,Tezpur Airport,Naharlagun Railway Station

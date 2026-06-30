@@ -1,0 +1,479 @@
+﻿hotel_id,place_id,hotel_name,star_rating,price_per_night,hotel_type,free_wifi,breakfast,parking,family_friendly,address,min_price,max_price
+H0001,P001,The Oberoi Amarvilas,5,₹45000–₹80000,Luxury,Yes,Yes,Yes,Yes,Taj East Gate Road Agra,45000,80000
+H0002,P001,ITC Mughal Agra,5,₹20000–₹40000,Luxury,Yes,Yes,Yes,Yes,Taj Ganj Agra,20000,40000
+H0003,P001,Trident Agra,5,₹12000–₹22000,Luxury,Yes,Yes,Yes,Yes,Fatehabad Road Agra,12000,22000
+H0004,P001,Courtyard by Marriott Agra,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Fatehabad Road Agra,6000,12000
+H0005,P001,Hotel Taj Resorts,3,₹3000–₹6000,Mid-range,Yes,No,Yes,Yes,Taj Ganj Agra,3000,6000
+H0006,P001,Hotel Kamal,3,₹1500–₹3000,Budget,Yes,No,No,Yes,Taj Ganj Agra,1500,3000
+H0007,P001,Zostel Agra,3,₹800–₹2000,Budget,Yes,No,No,Yes,Taj Nagri Phase 2 Agra,800,2000
+H0008,P002,Rambagh Palace,5,₹35000–₹75000,Luxury,Yes,Yes,Yes,Yes,Bhawani Singh Road Jaipur,35000,75000
+H0009,P002,Taj Jai Mahal Palace,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Jacob Road Civil Lines Jaipur,20000,45000
+H0010,P002,ITC Rajputana Jaipur,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Palace Road Jaipur,12000,25000
+H0011,P002,Fairmont Jaipur,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Riico Institutional Area Kukas Jaipur,18000,40000
+H0012,P002,Hotel Pearl Palace,3,₹2000–₹5000,Budget,Yes,Yes,No,Yes,Hathroi Fort Ajmer Road Jaipur,2000,5000
+H0013,P002,Zostel Jaipur,3,₹800–₹2500,Budget,Yes,No,No,Yes,Bani Park Jaipur,800,2500
+H0014,P002,Madhuban Hotel Jaipur,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,D-237 Behari Marg Bani Park Jaipur,3000,6000
+H0015,P002,Hilton Jaipur,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Ashram Marg Jaipur,8000,16000
+H0016,P003,Taj Ganges Varanasi,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Nadesar Palace Grounds Varanasi,12000,25000
+H0017,P003,Radisson Hotel Varanasi,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,The Mall Cantonment Varanasi,6000,12000
+H0018,P003,Hotel Surya Varanasi,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,The Mall Cantonment Varanasi,3000,6000
+H0019,P003,BrijRama Palace,5,₹18000–₹40000,Luxury,Yes,Yes,No,No,Darbhanga Ghat Varanasi,18000,40000
+H0020,P003,Zostel Varanasi,3,₹700–₹2000,Budget,Yes,No,No,Yes,Assi Ghat Varanasi,700,2000
+H0021,P003,Hotel Alka Varanasi,3,₹1500–₹3500,Budget,Yes,No,No,Yes,Meer Ghat Varanasi,1500,3500
+H0022,P003,Hotel Ganges View,3,₹2500–₹5000,Mid-range,Yes,Yes,No,Yes,Assi Ghat Varanasi,2500,5000
+H0023,P004,The Leela Palace New Delhi,5,₹30000–₹70000,Luxury,Yes,Yes,Yes,Yes,Chanakyapuri New Delhi,30000,70000
+H0024,P004,The Imperial New Delhi,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Janpath New Delhi,25000,55000
+H0025,P004,ITC Maurya New Delhi,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Sardar Patel Marg Diplomatic Enclave New Delhi,20000,45000
+H0026,P004,The Oberoi New Delhi,5,₹28000–₹60000,Luxury,Yes,Yes,Yes,Yes,Dr Zakir Hussain Marg New Delhi,28000,60000
+H0027,P004,Taj Mahal Hotel New Delhi,5,₹22000–₹50000,Luxury,Yes,Yes,Yes,Yes,1 Mansingh Road New Delhi,22000,50000
+H0028,P004,Bloom Hotel Vikaspuri,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Vikaspuri New Delhi,3000,6000
+H0029,P004,ibis New Delhi Aerocity,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Aerocity New Delhi,4000,8000
+H0030,P004,Zostel Delhi,3,₹700–₹2000,Budget,Yes,No,No,Yes,Paharganj New Delhi,700,2000
+H0031,P004,Hotel Broadway Delhi,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Asaf Ali Road New Delhi,3500,7000
+H0032,P005,Aloha on the Ganges,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Tapovan Rishikesh,8000,16000
+H0033,P005,Taj Rishikesh Resort and Spa,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Barkot Rishikesh,25000,55000
+H0034,P005,Zostel Rishikesh,3,₹700–₹2000,Budget,Yes,No,No,Yes,Laxman Jhula Rishikesh,700,2000
+H0035,P005,The Glasshouse on the Ganges,4,₹9000–₹18000,Luxury,Yes,Yes,Yes,Yes,National Highway 58 Rishikesh,9000,18000
+H0036,P005,Hotel Surya Rishikesh,3,₹2000–₹5000,Mid-range,Yes,Yes,Yes,Yes,Haridwar Road Rishikesh,2000,5000
+H0037,P005,Bunkyard Hostel Rishikesh,3,₹800–₹2000,Budget,Yes,No,No,Yes,Tapovan Rishikesh,800,2000
+H0038,P005,Divine Resort Rishikesh,3,₹3000–₹7000,Mid-range,Yes,Yes,Yes,Yes,Swarg Ashram Rishikesh,3000,7000
+H0039,P006,Solang Valley Resort,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Solang Valley Manali,8000,16000
+H0040,P006,The Himalayan Manali,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Log Huts Area Manali,15000,30000
+H0041,P006,Hotel Rohtang Manali,3,₹3000–₹7000,Mid-range,Yes,Yes,Yes,Yes,Mall Road Manali,3000,7000
+H0042,P006,Snow Valley Resorts Manali,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Naggar Road Manali,6000,12000
+H0043,P006,Zostel Manali,3,₹800–₹2500,Budget,Yes,No,No,Yes,Old Manali,800,2500
+H0044,P006,Hotel Beas Manali,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Mall Road Manali,2500,5000
+H0045,P006,Club Mahindra Snow Peaks Manali,4,₹9000–₹18000,Luxury,Yes,Yes,Yes,Yes,Rangri Village Manali,9000,18000
+H0046,P007,Wildflower Hall Shimla,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Chharabra Shimla,25000,55000
+H0047,P007,The Oberoi Cecil Shimla,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Chaura Maidan Shimla,18000,40000
+H0048,P007,Hotel Combermere Shimla,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,The Mall Shimla,4000,8000
+H0049,P007,Kufri Holiday Resort,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Kufri Shimla,7000,14000
+H0050,P007,Hotel Dreamland Shimla,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,The Mall Shimla,2500,5000
+H0051,P007,Zostel Shimla,3,₹800–₹2000,Budget,Yes,No,No,Yes,Lakkar Bazaar Shimla,800,2000
+H0052,P007,Radisson Hotel Shimla,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Strawberry Hills Shimla,8000,16000
+H0053,P008,The Grand Dragon Ladakh,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Old Leh Road Leh,8000,16000
+H0054,P008,Leh View Hotel,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Karzoo Leh,3000,6000
+H0055,P008,Hotel Ladakh Residency,3,₹2500–₹5000,Mid-range,Yes,No,Yes,Yes,Upper Tukcha Road Leh,2500,5000
+H0056,P008,The Zen Ladakh,4,₹7000–₹14000,Luxury,Yes,Yes,Yes,Yes,Skara Leh,7000,14000
+H0057,P008,Zostel Leh,3,₹800–₹2000,Budget,Yes,No,No,Yes,Old Leh Road Leh,800,2000
+H0058,P008,Hotel Singge Palace,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Leh Palace Road Leh,3500,7000
+H0059,P009,Sattvik Haridwar,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Railway Road Haridwar,6000,12000
+H0060,P009,Hotel Ganga Lahari Haridwar,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Har Ki Pauri Haridwar,3000,6000
+H0061,P009,Haveli Hari Ganga,4,₹7000–₹14000,Luxury,Yes,Yes,No,Yes,Ramghat Haridwar,7000,14000
+H0062,P009,Hotel Aadishwar Haridwar,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Upper Road Haridwar,2000,4000
+H0063,P009,Zostel Haridwar,3,₹700–₹1800,Budget,Yes,No,No,Yes,Shyampur Haridwar,700,1800
+H0064,P009,Radisson Blu Haridwar,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Haridwar Bypass Road Haridwar,8000,16000
+H0065,P010,Hyatt Amritsar,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,MK Road Amritsar,12000,25000
+H0066,P010,Taj Swarna Amritsar,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Town Hall Chowk Amritsar,15000,30000
+H0067,P010,Hotel Ritz Plaza Amritsar,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,45 The Mall Amritsar,6000,12000
+H0068,P010,Hotel Grace Amritsar,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Queens Road Amritsar,3000,6000
+H0069,P010,Zostel Amritsar,3,₹700–₹2000,Budget,Yes,No,No,Yes,Golden Temple Road Amritsar,700,2000
+H0070,P010,Hotel Sita Niwas Amritsar,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,near Golden Temple Amritsar,2000,4000
+H0071,P011,Manu Maharani Resort,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Grassmere Estate Mallital Nainital,8000,16000
+H0072,P011,The Naini Retreat,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Sher-Ka-Danda Nainital,15000,30000
+H0073,P011,Hotel Shervani Nainital,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Mallital Nainital,6000,12000
+H0074,P011,Zostel Nainital,3,₹800–₹2500,Budget,Yes,No,No,Yes,Lower Mall Road Nainital,800,2500
+H0075,P011,Swiss Hotel Nainital,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,The Mall Road Nainital,3000,6000
+H0076,P011,Hotel City Heart Nainital,3,₹2000–₹4500,Budget,Yes,No,Yes,Yes,Mallital Nainital,2000,4500
+H0077,P011,Vikram Vintage Inn,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Mallital Nainital,3500,7000
+H0078,P012,Jaypee Residency Manor,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Library Chowk Mussoorie,12000,25000
+H0079,P012,JW Marriott Mussoorie Walnut Grove,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Barlow Ganj Mussoorie,20000,45000
+H0080,P012,Fortune Resort Grace,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Cart Mackenzie Road Mussoorie,7000,14000
+H0081,P012,Hotel Broadway Mussoorie,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Mall Road Mussoorie,3000,6000
+H0082,P012,Zostel Mussoorie,3,₹800–₹2500,Budget,Yes,No,No,Yes,Landour Mussoorie,800,2500
+H0083,P012,Hotel Padmini Nivas,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,The Mall Road Mussoorie,2500,5000
+H0084,P012,Kasmanda Palace Hotel,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Mall Road Mussoorie,8000,16000
+H0085,P013,Radha Ashok Hotel,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Masani Bypass Road Mathura,2500,5000
+H0086,P013,Hotel Brijwasi Royal,3,₹2000–₹4000,Mid-range,Yes,Yes,Yes,Yes,Station Road Mathura,2000,4000
+H0087,P013,Hotel Madhuvan Mathura,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Krishna Nagar Mathura,3000,6000
+H0088,P013,Nidhivan Sarovar Portico,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Masani Bypass Mathura,5000,10000
+H0089,P013,Hotel Goverdhan,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Near Railway Station Mathura,1500,3000
+H0090,P013,The Mansion Mathura,4,₹6000–₹12000,Luxury,Yes,Yes,Yes,Yes,Civil Lines Mathura,6000,12000
+H0091,P014,Ananda Krishna Van,4,₹6000–₹12000,Luxury,Yes,Yes,Yes,Yes,Bhaktivedanta Swami Marg Vrindavan,6000,12000
+H0092,P014,Hotel Vrinda,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Parikrama Marg Vrindavan,2000,4000
+H0093,P014,ISKCON Guesthouse Vrindavan,3,₹1500–₹3500,Budget,Yes,Yes,Yes,Yes,Raman Reti Vrindavan,1500,3500
+H0094,P014,Radha Govind Dham,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Vrindavan Mathura Road Vrindavan,2500,5000
+H0095,P014,Hotel Krishnam Vrindavan,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Chhatikara Road Vrindavan,3000,6000
+H0096,P015,Taj Corbett Resort and Spa,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Corbett National Park Ramnagar,20000,45000
+H0097,P015,Jim's Jungle Retreat,4,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,Dhela Village Corbett,10000,20000
+H0098,P015,The Riverview Retreat,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Marchula Corbett,8000,16000
+H0099,P015,Corbett Ramganga Resort,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Dhikuli Ramnagar,7000,14000
+H0100,P015,Quality Inn Corbett Jungle Resort,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Dhikuli Ramnagar,4000,8000
+H0101,P015,Infinity Corbett Resort,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Dhikuli Ramnagar,3000,6000
+H0102,P016,Lemon Tree Hotel Dehradun,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Rajpur Road Dehradun,6000,12000
+H0103,P016,Taj City Centre Dehradun,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Rajpur Road Dehradun,12000,25000
+H0104,P016,Zostel Dehradun,3,₹700–₹2000,Budget,Yes,No,No,Yes,Rajpur Road Dehradun,700,2000
+H0105,P016,Hotel Madhuban Dehradun,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,97 Rajpur Road Dehradun,3000,6000
+H0106,P016,Hyatt Regency Dehradun,5,₹10000–₹22000,Luxury,Yes,Yes,Yes,Yes,Constantia Marg Jakhan Dehradun,10000,22000
+H0107,P016,Hotel President Dehradun,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Astley Hall Dehradun,2500,5000
+H0108,P016,Moti Mahal Hotel Dehradun,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Haridwar Road Dehradun,2000,4000
+H0109,P017,Spiti Valley Resort,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Kaza Spiti Valley,4000,8000
+H0110,P017,Hotel Deyzor Kaza,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Kaza Spiti Valley,3000,6000
+H0111,P017,Zostel Kaza,3,₹800–₹2000,Budget,Yes,No,No,Yes,Kaza Spiti Valley,800,2000
+H0112,P017,Sakya Abode Spiti,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Kaza Spiti Valley,3500,7000
+H0113,P017,Norling Guesthouse Kaza,3,₹1500–₹3000,Budget,Yes,No,No,Yes,Kaza Spiti Valley,1500,3000
+H0114,P018,Zostel Dharamshala,3,₹800–₹2000,Budget,Yes,No,No,Yes,McLeod Ganj Dharamshala,800,2000
+H0115,P018,Fortune Park Moksha Dharamshala,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Dharamshala Bypass Road Dharamshala,7000,14000
+H0116,P018,Hotel Himalayan Dharamshala,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,McLeod Ganj Dharamshala,3000,6000
+H0117,P018,Chonor House,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,McLeod Ganj Dharamshala,8000,16000
+H0118,P018,Taj Dharamshala,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Sidhpur Dharamshala,15000,30000
+H0119,P018,Hotel Norbulingka Dharamshala,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Sidhpur Dharamshala,6000,12000
+H0120,P018,Pema Thang Guesthouse,3,₹2000–₹4000,Budget,Yes,No,No,Yes,McLeod Ganj Dharamshala,2000,4000
+H0121,P019,The Westin Pushkar Resort and Spa,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Ganahera Village Pushkar,15000,30000
+H0122,P019,Hotel Pushkar Palace,4,₹6000–₹12000,Mid-range,Yes,Yes,No,Yes,Pushkar Lake Pushkar,6000,12000
+H0123,P019,Ananta Spa and Resorts Pushkar,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Motisar Road Pushkar,12000,25000
+H0124,P019,Hotel White House Pushkar,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Chotti Basti Pushkar,2000,4000
+H0125,P019,Inn Seventh Heaven Pushkar,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,Chotti Basti Pushkar,3000,6000
+H0126,P019,Milkman Guesthouse Pushkar,3,₹1500–₹3000,Budget,Yes,No,No,Yes,Pushkar Lake Pushkar,1500,3000
+H0127,P020,Suryagarh Jaisalmer,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Sam Road Jaisalmer,20000,45000
+H0128,P020,Taj Hotel and Convention Centre Jaisalmer,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Jodhpur-Barmer Link Road Jaisalmer,15000,30000
+H0129,P020,Hotel Rang Mahal Jaisalmer,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Shiv Road Jaisalmer,6000,12000
+H0130,P020,Desert Tulip Hotel and Resort,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Sam Road Jaisalmer,5000,10000
+H0131,P020,Hotel Tokyo Palace Jaisalmer,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Near Hanuman Circle Jaisalmer,2500,5000
+H0132,P020,Zostel Jaisalmer,3,₹800–₹2000,Budget,Yes,No,No,Yes,Nachna Haveli Jaisalmer,800,2000
+H0133,P020,Hotel Nachana Haveli,4,₹7000–₹14000,Luxury,Yes,Yes,Yes,Yes,Gandhi Chowk Jaisalmer,7000,14000
+H0134,P020,The Serai Jaisalmer,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Kanoi Sam Road Jaisalmer,25000,55000
+H0135,P021,Windermere Estate Munnar,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Pothamedu Munnar,8000,16000
+H0136,P021,Tea Valley Resort Munnar,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Pallivasal Munnar,6000,12000
+H0137,P021,Fragrant Nature Munnar,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Bison Valley Road Munnar,7000,14000
+H0138,P021,The Tall Trees Munnar,4,₹9000–₹18000,Luxury,Yes,Yes,Yes,Yes,Bison Valley Munnar,9000,18000
+H0139,P021,Spice Tree Munnar,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Idukki Munnar,15000,30000
+H0140,P021,Hotel Munnar Castle,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Munnar Town Munnar,2500,5000
+H0141,P021,Zostel Munnar,3,₹800–₹2000,Budget,Yes,No,No,Yes,Old Munnar Munnar,800,2000
+H0142,P022,Savoy Hotel Ooty,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Sylks Road Ooty,8000,16000
+H0143,P022,Fortune Sullivan Court Ooty,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Havelock Road Ooty,6000,12000
+H0144,P022,Hotel Lakeview Ooty,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Ettines Road Ooty,3000,6000
+H0145,P022,Sterling Ooty Fern Hill,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Fern Hill Road Ooty,12000,25000
+H0146,P022,Hotel Darshan Ooty,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Commercial Road Ooty,2000,4000
+H0147,P022,Sinclairs Retreat Ooty,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Mysore Road Ooty,7000,14000
+H0148,P022,Zostel Ooty,3,₹800–₹2000,Budget,Yes,No,No,Yes,Charring Cross Ooty,800,2000
+H0149,P023,Taj Madikeri Resort and Spa,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Galibeedu Madikeri Coorg,18000,40000
+H0150,P023,Orange County Resort Coorg,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Siddapur Coorg,20000,45000
+H0151,P023,Coorg Wilderness Resort,4,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,Galibeedu Coorg,10000,20000
+H0152,P023,Club Mahindra Madikeri Coorg,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Galibeedu Coorg,8000,16000
+H0153,P023,Amanvana Spa Resort Coorg,5,₹22000–₹50000,Luxury,Yes,Yes,Yes,Yes,Kushalnagar Coorg,22000,50000
+H0154,P023,Hotel Coorg International,3,₹3000–₹6000,Budget,Yes,No,Yes,Yes,Madikeri Town Coorg,3000,6000
+H0155,P024,Radisson Blu Plaza Hotel Mysuru,5,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,Nazarbad Mysuru,10000,20000
+H0156,P024,Royal Orchid Metropole Mysuru,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,5 Jhansi Lakshmi Bai Road Mysuru,7000,14000
+H0157,P024,Sandesh The Prince Hotel Mysuru,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Nazarbad Main Road Mysuru,6000,12000
+H0158,P024,Hotel Pai Vista Mysuru,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Curzon Park Road Mysuru,3000,6000
+H0159,P024,The Windflower Resort and Spa Mysuru,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Nazarbad Mysuru,12000,25000
+H0160,P024,Zostel Mysuru,3,₹700–₹2000,Budget,Yes,No,No,Yes,Sayyaji Rao Road Mysuru,700,2000
+H0161,P024,Hotel Dasaprakash Mysuru,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Gandhi Square Mysuru,2000,4000
+H0162,P025,Evolve Back Hampi,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Kamalapura Hampi,25000,55000
+H0163,P025,Kishkinda Heritage Resort Hampi,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Anegundi Hampi,6000,12000
+H0164,P025,Hampi's Boulders Resort,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Narayanpet Village Hampi,8000,16000
+H0165,P025,Zostel Hampi,3,₹700–₹2000,Budget,Yes,No,No,Yes,Virupapur Gaddi Hampi,700,2000
+H0166,P025,Hotel Malligi Hospete,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Hospete Town near Hampi,3000,6000
+H0167,P025,Goan Corner Guesthouse Hampi,3,₹1500–₹3000,Budget,Yes,No,No,Yes,Virupapur Gaddi Hampi,1500,3000
+H0168,P026,Taj Malabar Resort and Spa Kochi,5,₹15000–₹35000,Luxury,Yes,Yes,Yes,Yes,Willingdon Island Kochi,15000,35000
+H0169,P026,The Brunton Boatyard Kochi,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Fort Kochi Kochi,18000,40000
+H0170,P026,Trident Kochi,5,₹10000–₹22000,Luxury,Yes,Yes,Yes,Yes,Willingdon Island Kochi,10000,22000
+H0171,P026,Old Harbour Hotel Kochi,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Fort Kochi Kochi,8000,16000
+H0172,P026,Eighth Bastion Hotel Kochi,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Fort Kochi Kochi,7000,14000
+H0173,P026,Zostel Kochi,3,₹700–₹2000,Budget,Yes,No,No,Yes,Fort Kochi Kochi,700,2000
+H0174,P026,Hotel Abad Plaza Kochi,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,MG Road Ernakulam Kochi,3000,6000
+H0175,P027,Kumarakom Lake Resort Alleppey,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Punnamada Lake Alleppey,20000,45000
+H0176,P027,Lemon Tree Vembanad Lake Resort Alleppey,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Muhamma Alleppey,8000,16000
+H0177,P027,Pagoda Resort Alleppey,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Beach Road Alleppey,4000,8000
+H0178,P027,Zostel Alleppey,3,₹700–₹2000,Budget,Yes,No,No,Yes,Beach Road Alleppey,700,2000
+H0179,P027,Ramada Alleppey,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Beach Road Alleppey,6000,12000
+H0180,P027,Hotel Tharavadu Alleppey,3,₹3000–₹6000,Budget,Yes,Yes,Yes,Yes,Alleppey Town Alleppey,3000,6000
+H0181,P028,Taj Green Cove Resort and Spa Kovalam,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Lighthouse Beach Kovalam,18000,40000
+H0182,P028,Uday Samudra Leisure Beach Hotel Kovalam,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Kovalam Beach Kovalam,8000,16000
+H0183,P028,Hotel Rockholm Kovalam,3,₹4000–₹8000,Mid-range,Yes,Yes,No,Yes,Lighthouse Beach Kovalam,4000,8000
+H0184,P028,Leela Kovalam,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Kovalam Beach Kovalam,20000,45000
+H0185,P028,Zostel Kovalam,3,₹700–₹2000,Budget,Yes,No,No,Yes,Lighthouse Beach Kovalam,700,2000
+H0186,P028,Hotel Sea Face Kovalam,3,₹3000–₹6000,Budget,Yes,No,Yes,Yes,Hawah Beach Kovalam,3000,6000
+H0187,P029,Radisson Blu Resort Temple Bay Mahabalipuram,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Shore Temple Road Mahabalipuram,12000,25000
+H0188,P029,Ideal Beach Resort Mahabalipuram,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Kovalam Road Mahabalipuram,4000,8000
+H0189,P029,Mamalla Heritage Hotel Mahabalipuram,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,East Raja Street Mahabalipuram,3000,6000
+H0190,P029,Tina Blue View Lodge Mahabalipuram,3,₹1500–₹3000,Budget,Yes,No,No,Yes,Othavadai Street Mahabalipuram,1500,3000
+H0191,P029,The Chariot Beach Resort Mahabalipuram,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Kovalam Road Mahabalipuram,7000,14000
+H0192,P030,Le Pondy Resort Pondicherry,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,ECR Road Pondicherry,8000,16000
+H0193,P030,Villa Shanti Pondicherry,4,₹7000–₹14000,Mid-range,Yes,Yes,No,Yes,Suffren Street French Quarter Pondicherry,7000,14000
+H0194,P030,The Promenade Pondicherry,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Beach Road Pondicherry,8000,16000
+H0195,P030,Palais de Mahe Pondicherry,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Rue de la Caserne French Quarter Pondicherry,15000,30000
+H0196,P030,Zostel Pondicherry,3,₹700–₹2000,Budget,Yes,No,No,Yes,White Town Pondicherry,700,2000
+H0197,P030,Hotel Mass Pondicherry,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Maraimalai Adigal Salai Pondicherry,2500,5000
+H0198,P030,Storytellers Inn Pondicherry,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,French Quarter Pondicherry,3000,6000
+H0199,P031,Taj Gateway Hotel Madurai,5,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,TPK Road Madurai,8000,16000
+H0200,P031,Hotel Sangam Madurai,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Alagarkoil Road Madurai,5000,10000
+H0201,P031,Ibis Madurai,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Bypass Road Madurai,3000,6000
+H0202,P031,Hotel Heritage Madurai,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,West Veli Street Madurai,2500,5000
+H0203,P031,Zostel Madurai,3,₹700–₹2000,Budget,Yes,No,No,Yes,North Chitrai Street Madurai,700,2000
+H0204,P031,Hotel Supreme Madurai,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,West Perumal Maistry Street Madurai,2000,4000
+H0205,P031,Fortune Pandiyan Hotel Madurai,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Race Course Road Madurai,6000,12000
+H0206,P032,Hotel Tamil Nadu Rameswaram,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Beach Road Rameswaram,2000,4000
+H0207,P032,Hotel Daiwik Rameswaram,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Rameswaram Beach Road Rameswaram,5000,10000
+H0208,P032,Hyatt Place Rameswaram,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Bypass Road Rameswaram,6000,12000
+H0209,P032,Hotel Maharaja Rameswaram,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Middle Street Rameswaram,1500,3000
+H0210,P032,SGS Grand Hotel Rameswaram,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,West Car Street Rameswaram,2500,5000
+H0211,P033,Fortune Select Grand Ridge Tirupati,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Bypass Road Tirupati,6000,12000
+H0212,P033,Hotel Bliss Tirupati,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Tilak Road Tirupati,3000,6000
+H0213,P033,Hotel Annamalai Tirupati,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Govindaraja Car Street Tirupati,2000,4000
+H0214,P033,Marasa Sarovar Premiere Tirupati,5,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Karakambadi Road Tirupati,8000,16000
+H0215,P033,Hotel Sindhuri Park Tirupati,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Renigunta Road Tirupati,2500,5000
+H0216,P033,Guestline Hotel Tirupati,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Karakambadi Road Tirupati,5000,10000
+H0217,P034,Vythiri Resort Wayanad,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Vythiri Wayanad,15000,30000
+H0218,P034,Evolve Back Kuruba Safari Lodge Wayanad,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Sultan Bathery Wayanad,20000,45000
+H0219,P034,The Windflower Resort and Spa Wayanad,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Vythiri Wayanad,12000,25000
+H0220,P034,Rainforest Resort Wayanad,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Kalpetta Wayanad,7000,14000
+H0221,P034,Hotel Pepper Trail Wayanad,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Kalpetta Town Wayanad,3000,6000
+H0222,P034,Zostel Wayanad,3,₹800–₹2000,Budget,Yes,No,No,Yes,Vythiri Wayanad,800,2000
+H0223,P035,The Serai Chikmagalur,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Kallugundi Estate Chikmagalur,18000,40000
+H0224,P035,Taj Madikeri Coorg near Chikmagalur,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Ainthimane Chikmagalur,20000,45000
+H0225,P035,Gateway Chikmagalur,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,KM Road Chikmagalur,8000,16000
+H0226,P035,Hotel Mayura Chikmagalur,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,BM Road Chikmagalur,2500,5000
+H0227,P035,Zostel Chikmagalur,3,₹800–₹2000,Budget,Yes,No,No,Yes,Chikmagalur Town,800,2000
+H0228,P035,Arabica Resort Chikmagalur,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Mudigere Road Chikmagalur,6000,12000
+H0229,P036,Sterling Kodaikanal,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Kodaikanal Lake Road Kodaikanal,8000,16000
+H0230,P036,The Carlton Kodaikanal,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Lake Road Kodaikanal,12000,25000
+H0231,P036,Hotel Kodai International,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,PT Road Kodaikanal,3000,6000
+H0232,P036,Hilltop Towers Kodaikanal,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Club Road Kodaikanal,2500,5000
+H0233,P036,Zostel Kodaikanal,3,₹800–₹2000,Budget,Yes,No,No,Yes,Kodaikanal Town,800,2000
+H0234,P036,Club Mahindra Kodaikanal,4,₹9000–₹18000,Luxury,Yes,Yes,Yes,Yes,Coaker's Walk Kodaikanal,9000,18000
+H0235,P037,Clafouti Beach Resort Varkala,4,₹6000–₹12000,Mid-range,Yes,Yes,No,Yes,Cliff Area Varkala,6000,12000
+H0236,P037,Taj Gateway Hotel Varkala,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,North Cliff Varkala,8000,16000
+H0237,P037,Zostel Varkala,3,₹700–₹2000,Budget,Yes,No,No,Yes,North Cliff Varkala,700,2000
+H0238,P037,Hindustan Beach Retreat Varkala,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,North Cliff Varkala,7000,14000
+H0239,P037,Sea Pearl Beach Resort Varkala,3,₹3000–₹6000,Budget,Yes,No,Yes,Yes,Papanasam Beach Varkala,3000,6000
+H0240,P037,Abhinav Beach Resort Varkala,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,North Cliff Varkala,2500,5000
+H0241,P038,Hotel Mookambika Badami,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Station Road Badami,2000,4000
+H0242,P038,Hotel Badami Court,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Station Road Badami,3000,6000
+H0243,P038,Clarks Inn Badami,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Ramdurg Road Badami,3500,7000
+H0244,P038,KSTDC Hotel Mayura Chalukya,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Badami Town Badami,1500,3000
+H0245,P039,Sterling Yercaud,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Yercaud Lake Road Yercaud,7000,14000
+H0246,P039,Hotel Shevaroys Yercaud,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Yercaud Main Road Yercaud,3000,6000
+H0247,P039,Hotel Tamil Nadu Yercaud,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Lake Road Yercaud,2000,4000
+H0248,P039,Zostel Yercaud,3,₹700–₹2000,Budget,Yes,No,No,Yes,Yercaud Town,700,2000
+H0249,P039,GRT Temple Bay Yercaud,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Shevarayan Hills Yercaud,5000,10000
+H0250,P040,Novotel Visakhapatnam Varun Beach,5,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,Beach Road Vizag,10000,20000
+H0251,P040,The Park Visakhapatnam,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Beach Road Vizag,12000,25000
+H0252,P040,Fortune Murali Park Vizag,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Suryabagh Vizag,6000,12000
+H0253,P040,Hotel Daspalla Vizag,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Suryabagh Vizag,5000,10000
+H0254,P040,Welcomhotel Grand Bay Vizag,5,₹10000–₹22000,Luxury,Yes,Yes,Yes,Yes,Beach Road Vizag,10000,22000
+H0255,P040,Zostel Vizag,3,₹700–₹2000,Budget,Yes,No,No,Yes,Beach Road Vizag,700,2000
+H0256,P040,Hotel Sai Priya Vizag,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Dwaraka Nagar Vizag,2500,5000
+H0257,P040,Lemon Tree Hotel Vizag,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Dwaraka Nagar Vizag,6000,12000
+H0258,P041,Taj Holiday Village Resort and Spa Goa,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Sinquerim Bardez Goa,20000,45000
+H0259,P041,The Leela Goa,5,₹25000–₹55000,Luxury,Yes,Yes,Yes,Yes,Mobor Cavelossim Goa,25000,55000
+H0260,P041,W Goa,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Vagator Beach Goa,18000,40000
+H0261,P041,Aloft North Goa,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Candolim Goa,8000,16000
+H0262,P041,Zostel Goa,3,₹800–₹2500,Budget,Yes,No,No,Yes,Anjuna Goa,800,2500
+H0263,P041,Hotel Bougainvillea Goa,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Calangute Goa,3000,6000
+H0264,P041,Park Hyatt Goa Resort and Spa,5,₹22000–₹50000,Luxury,Yes,Yes,Yes,Yes,Arossim Beach Cansaulim Goa,22000,50000
+H0265,P041,Lemon Tree Amarante Beach Resort Goa,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Varca Beach Goa,7000,14000
+H0266,P042,The Taj Mahal Palace Mumbai,5,₹30000–₹70000,Luxury,Yes,Yes,Yes,Yes,Apollo Bunder Colaba Mumbai,30000,70000
+H0267,P042,The Oberoi Mumbai,5,₹25000–₹60000,Luxury,Yes,Yes,Yes,Yes,Nariman Point Mumbai,25000,60000
+H0268,P042,ITC Grand Central Mumbai,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Dr Babasaheb Ambedkar Road Parel Mumbai,18000,40000
+H0269,P042,Trident Bandra Kurla Mumbai,5,₹15000–₹35000,Luxury,Yes,Yes,Yes,Yes,Bandra Kurla Complex Mumbai,15000,35000
+H0270,P042,Zostel Mumbai,3,₹800–₹2000,Budget,Yes,No,No,Yes,Colaba Mumbai,800,2000
+H0271,P042,Hotel Godwin Mumbai,3,₹3000–₹6000,Mid-range,Yes,No,No,Yes,Colaba Mumbai,3000,6000
+H0272,P042,Novotel Mumbai Juhu Beach,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Juhu Beach Mumbai,8000,16000
+H0273,P042,Hotel Sea Princess Mumbai,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Juhu Beach Mumbai,7000,14000
+H0274,P043,The Westin Pune Koregaon Park,5,₹10000–₹22000,Luxury,Yes,Yes,Yes,Yes,Koregaon Park Pune,10000,22000
+H0275,P043,JW Marriott Pune,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Senapati Bapat Road Pune,12000,25000
+H0276,P043,Hyatt Regency Pune,5,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,Weikfield IT City Nagar Road Pune,10000,20000
+H0277,P043,Radisson Blu Pune Kharadi,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Kharadi Pune,7000,14000
+H0278,P043,Zostel Pune,3,₹700–₹2000,Budget,Yes,No,No,Yes,Koregaon Park Pune,700,2000
+H0279,P043,Hotel Sunderban Pune,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Koregaon Park Pune,3000,6000
+H0280,P043,Lemon Tree Hotel Pune,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Baner Road Pune,6000,12000
+H0281,P044,Vivanta Aurangabad,5,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,CIDCO Aurangabad,8000,16000
+H0282,P044,Lemon Tree Hotel Aurangabad,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Chikalthana Aurangabad,5000,10000
+H0283,P044,Hotel Panchavati Aurangabad,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Station Road Aurangabad,2500,5000
+H0284,P044,Hotel Rama International Aurangabad,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,R-3 Chikalthana Aurangabad,3000,6000
+H0285,P044,Zostel Aurangabad,3,₹700–₹2000,Budget,Yes,No,No,Yes,Aurangabad Town,700,2000
+H0286,P044,Hotel Amarpreet Aurangabad,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Jalna Road Aurangabad,2000,4000
+H0287,P045,Taj Lake Palace Udaipur,5,₹35000–₹80000,Luxury,Yes,Yes,No,Yes,Lake Pichola Udaipur,35000,80000
+H0288,P045,The Leela Palace Udaipur,5,₹30000–₹70000,Luxury,Yes,Yes,Yes,Yes,Lake Pichola Udaipur,30000,70000
+H0289,P045,Trident Udaipur,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Haridasa Ji Ki Magri Udaipur,15000,30000
+H0290,P045,Radisson Blu Udaipur Palace Resort and Spa,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,The Palace Road Udaipur,12000,25000
+H0291,P045,Hotel Udai Kothi Udaipur,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Hanuman Ghat Udaipur,7000,14000
+H0292,P045,Zostel Udaipur,3,₹700–₹2000,Budget,Yes,No,No,Yes,Lal Ghat Udaipur,700,2000
+H0293,P045,Hotel Badi Haveli Udaipur,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,Gangaur Ghat Udaipur,3000,6000
+H0294,P046,Umaid Bhawan Palace Jodhpur,5,₹35000–₹80000,Luxury,Yes,Yes,Yes,Yes,Circuit House Road Jodhpur,35000,80000
+H0295,P046,Taj Hari Mahal Jodhpur,5,₹15000–₹35000,Luxury,Yes,Yes,Yes,Yes,5 Residency Road Jodhpur,15000,35000
+H0296,P046,Raas Jodhpur,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Tunwarji Ka Jhalra Makrana Mohalla Jodhpur,18000,40000
+H0297,P046,Indique Heights Jodhpur,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,High Court Colony Jodhpur,7000,14000
+H0298,P046,Zostel Jodhpur,3,₹700–₹2000,Budget,Yes,No,No,Yes,Navchokiya Jodhpur,700,2000
+H0299,P046,Hotel Haveli Jodhpur,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Makrana Mohalla Jodhpur,2500,5000
+H0300,P046,Vivanta Jodhpur,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Residency Road Jodhpur,12000,25000
+H0301,P047,Merwara Estate Ajmer,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Nasirabad Road Ajmer,6000,12000
+H0302,P047,Hotel Mansingh Ajmer,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Ana Sagar Circular Road Ajmer,5000,10000
+H0303,P047,Hotel Embassy Ajmer,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Agra Gate Ajmer,2000,4000
+H0304,P047,RTDC Hotel Khadim Ajmer,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Savitri Girls College Road Ajmer,2500,5000
+H0305,P047,Hotel Regency Ajmer,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Kutchery Road Ajmer,3000,6000
+H0306,P048,Jaisamand Island Resort Mount Abu,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Opposite Achalgarh Fort Mount Abu,8000,16000
+H0307,P048,Hotel Hilltone Mount Abu,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Main Road Mount Abu,6000,12000
+H0308,P048,Cama Rajputana Club Resort Mount Abu,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Adhar Devi Road Mount Abu,7000,14000
+H0309,P048,Hotel Saraswati Mount Abu,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Main Road Mount Abu,2500,5000
+H0310,P048,Zostel Mount Abu,3,₹700–₹2000,Budget,Yes,No,No,Yes,Mount Abu Town,700,2000
+H0311,P049,Rann Utsav Tent City Kutch,4,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,White Rann Dhordo Kutch,12000,25000
+H0312,P049,Hotel iCON Bhuj Kutch,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Station Road Bhuj Kutch,3000,6000
+H0313,P049,The Gateway Hotel Bhuj Kutch,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Bhuj Town Kutch,6000,12000
+H0314,P049,Hotel Prince Bhuj Kutch,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Station Road Bhuj Kutch,2000,4000
+H0315,P049,Zostel Kutch,3,₹700–₹2000,Budget,Yes,No,No,Yes,Bhuj Town Kutch,700,2000
+H0316,P050,Dwarka Residency Hotel,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Dwarka Town Dwarka,2500,5000
+H0317,P050,Hotel Narayan Avadh Dwarka,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Near Dwarkadhish Temple Dwarka,2000,4000
+H0318,P050,Lords Eco Inn Dwarka,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Near ST Bus Stand Dwarka,3000,6000
+H0319,P050,Hotel Gomti Dwarka,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Gomti Ghat Dwarka,1500,3000
+H0320,P050,The Fern Dwarka,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Dwarka Town Dwarka,5000,10000
+H0321,P051,The Umed Somnath,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Somnath Temple Road Somnath,6000,12000
+H0322,P051,Hotel Somnath Residency,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Near Somnath Temple Somnath,2500,5000
+H0323,P051,Hotel Mayuram Somnath,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Somnath Temple Road Somnath,2000,4000
+H0324,P051,Lords Inn Somnath,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,College Road Somnath,3000,6000
+H0325,P051,GTDC Toran Somnath,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Somnath Beach Road Somnath,1500,3000
+H0326,P052,Hyatt Regency Ahmedabad,5,₹10000–₹22000,Luxury,Yes,Yes,Yes,Yes,SG Highway Ahmedabad,10000,22000
+H0327,P052,Taj Skyline Ahmedabad,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,SG Highway Ahmedabad,12000,25000
+H0328,P052,Novotel Ahmedabad,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,SG Highway Ahmedabad,7000,14000
+H0329,P052,Lemon Tree Hotel Ahmedabad,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Khanpur Ahmedabad,5000,10000
+H0330,P052,Hotel Cama Ahmedabad,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Khanpur Road Ahmedabad,6000,12000
+H0331,P052,Zostel Ahmedabad,3,₹700–₹2000,Budget,Yes,No,No,Yes,Law Garden Ahmedabad,700,2000
+H0332,P052,Hotel Volga Ahmedabad,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Relief Road Ahmedabad,2500,5000
+H0333,P053,Fariyas Resort Lonavala,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Frichley Hill Lonavala,8000,16000
+H0334,P053,The Machan Resort Lonavala,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Tickle Road Amby Valley Lonavala,15000,30000
+H0335,P053,Hotel Adarsh Palace Lonavala,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Old Pune Mumbai Highway Lonavala,2500,5000
+H0336,P053,Valvan Resort Lonavala,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Valvan Dam Road Lonavala,6000,12000
+H0337,P053,Zostel Lonavala,3,₹700–₹2000,Budget,Yes,No,No,Yes,Lonavala Town,700,2000
+H0338,P053,Hotel Chandralok Lonavala,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Mumbai Pune Highway Lonavala,3000,6000
+H0339,P054,Evershine Resort Mahabaleshwar,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Mahabaleshwar Road Mahabaleshwar,8000,16000
+H0340,P054,Le Meridien Mahabaleshwar,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Bhuibadan Mahabaleshwar,18000,40000
+H0341,P054,Hotel Dreamland Mahabaleshwar,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Murray Peth Mahabaleshwar,3000,6000
+H0342,P054,Brightland Resort and Spa Mahabaleshwar,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Mahabaleshwar Road Mahabaleshwar,15000,30000
+H0343,P054,Hotel Regal Mahabaleshwar,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Main Road Mahabaleshwar,2000,4000
+H0344,P054,Zostel Mahabaleshwar,3,₹700–₹2000,Budget,Yes,No,No,Yes,Mahabaleshwar Town,700,2000
+H0345,P055,Radhika Beach Resort Diu,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Nagoa Beach Diu,6000,12000
+H0346,P055,Hotel Kohinoor Diu,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Collectorate Road Diu,2500,5000
+H0347,P055,Hoka Holiday Home Diu,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Nagoa Beach Diu,3000,6000
+H0348,P055,Hotel Prince Diu,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Main Road Diu,2000,4000
+H0349,P055,Zostel Diu,3,₹700–₹2000,Budget,Yes,No,No,Yes,Diu Town,700,2000
+H0350,P056,MTDC Resort Tarkarli,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Tarkarli Beach Tarkarli,3000,6000
+H0351,P056,Chiwla Beach Resort Tarkarli,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Chiwla Beach Tarkarli,4000,8000
+H0352,P056,Hotel Atithi Tarkarli,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Tarkarli Village Tarkarli,2500,5000
+H0353,P056,Rock Bay Resort Tarkarli,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Tarkarli Beach Road Tarkarli,6000,12000
+H0354,P056,Blue Lagoon Resort Tarkarli,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Tarkarli Beach Tarkarli,3500,7000
+H0355,P057,Express Inn Nashik,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Pathardi Phata Nashik,6000,12000
+H0356,P057,Hotel Panchavati Yatri Nashik,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Vakil Wadi Nashik,2500,5000
+H0357,P057,Ginger Hotel Nashik,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Trimbak Road Nashik,3000,6000
+H0358,P057,Hotel Ibis Nashik,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Mumbai Agra Highway Nashik,4000,8000
+H0359,P057,Zostel Nashik,3,₹700–₹2000,Budget,Yes,No,No,Yes,Nashik Town,700,2000
+H0360,P057,Hotel Atithi Nashik,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Sharanpur Road Nashik,2000,4000
+H0361,P058,Gir Lion Safari Lodge,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Sasan Gir Gir National Park,18000,40000
+H0362,P058,Taj Exotica Gir Forest,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Sasan Gir Junagadh,20000,45000
+H0363,P058,Rann Riders Gir,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Sasan Gir Village,8000,16000
+H0364,P058,Hotel Mango Sasan Gir,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Sasan Gir Main Road,3000,6000
+H0365,P058,Forest Camp Gir,3,₹2500–₹5000,Budget,Yes,Yes,Yes,Yes,Sasan Gir Junagadh,2500,5000
+H0366,P059,Rann Utsav Tent City,4,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Dhordo White Rann Kutch,12000,25000
+H0367,P059,Rann Rider Resort Kutch,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Dhordo Village Kutch,8000,16000
+H0368,P059,Desert Safari Lodge Kutch,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Hodka Village Kutch,4000,8000
+H0369,P059,Shaam-E-Sarhad Resort,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Hodka Village Kutch,7000,14000
+H0370,P059,Zostel Kutch,3,₹700–₹2000,Budget,Yes,No,No,Yes,Bhuj Town Kutch,700,2000
+H0371,P060,Sai Palace Hotel Shirdi,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Sahajanand Nagar Shirdi,5000,10000
+H0372,P060,Hotel Sai Leela Shirdi,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Near Sai Temple Shirdi,3000,6000
+H0373,P060,Hotel Prasad Shirdi,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Pimpalwadi Road Shirdi,2500,5000
+H0374,P060,Sai Yatri Hotel Shirdi,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Sahajanand Nagar Shirdi,2000,4000
+H0375,P060,Ibbiza Hotel Shirdi,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Shirdi Village Road Shirdi,6000,12000
+H0376,P061,Taj Bengal Kolkata,5,₹15000–₹35000,Luxury,Yes,Yes,Yes,Yes,Belvedere Road Alipore Kolkata,15000,35000
+H0377,P061,ITC Royal Bengal Kolkata,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,JBS Haldane Avenue Kolkata,18000,40000
+H0378,P061,The Oberoi Grand Kolkata,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Jawaharlal Nehru Road Kolkata,20000,45000
+H0379,P061,Hyatt Regency Kolkata,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,JA-1 Sector III Salt Lake Kolkata,12000,25000
+H0380,P061,Zostel Kolkata,3,₹700–₹2000,Budget,Yes,No,No,Yes,Sudder Street Kolkata,700,2000
+H0381,P061,Hotel Fairlawn Kolkata,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,Sudder Street Kolkata,3000,6000
+H0382,P061,Ibis Kolkata Rajarhat,3,₹4000–₹8000,Mid-range,Yes,Yes,Yes,Yes,Rajarhat Kolkata,4000,8000
+H0383,P062,Mayfair Darjeeling,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,The Mall Darjeeling,15000,30000
+H0384,P062,Windamere Hotel Darjeeling,4,₹10000–₹20000,Luxury,Yes,Yes,No,Yes,Observatory Hill Darjeeling,10000,20000
+H0385,P062,Glenburn Tea Estate Darjeeling,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Glenburn Tea Estate Darjeeling,20000,45000
+H0386,P062,Hotel Valentino Darjeeling,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,Rockville Road Darjeeling,3000,6000
+H0387,P062,Zostel Darjeeling,3,₹700–₹2000,Budget,Yes,No,No,Yes,Dr Zakir Hussain Road Darjeeling,700,2000
+H0388,P062,Hotel Revolver Darjeeling,3,₹2500–₹5000,Budget,Yes,No,No,Yes,Gandhi Road Darjeeling,2500,5000
+H0389,P063,Sunderban Tiger Camp,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Dayapur Village Sundarbans,8000,16000
+H0390,P063,Sundarbans Jungle Camp,3,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Bali Island Sundarbans,5000,10000
+H0391,P063,Help Tourism Sundarbans,3,₹4000–₹8000,Mid-range,Yes,Yes,No,Yes,Pakhiralay Sundarbans,4000,8000
+H0392,P063,Sundarban Mangrove Resort,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Gosaba Sundarbans,3500,7000
+H0393,P063,Tiger Roar Resort Sundarbans,3,₹4500–₹9000,Mid-range,Yes,Yes,Yes,Yes,Dayapur Sundarbans,4500,9000
+H0394,P064,Mayfair Beach Resort Puri,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,CT Road Puri,12000,25000
+H0395,P064,Toshali Sands Puri,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Konark Marine Drive Puri,7000,14000
+H0396,P064,Hotel Nilachal Ashok Puri,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,VIP Road Puri,3000,6000
+H0397,P064,Zostel Puri,3,₹700–₹2000,Budget,Yes,No,No,Yes,CT Road Puri,700,2000
+H0398,P064,Hotel Holiday Resort Puri,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,CT Road Puri,2500,5000
+H0399,P064,Hans Coco Palms Puri,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,CT Road Puri,6000,12000
+H0400,P065,Trident Bhubaneswar,5,₹10000–₹20000,Luxury,Yes,Yes,Yes,Yes,CB-1 Nayapalli Bhubaneswar,10000,20000
+H0401,P065,Mayfair Lagoon Bhubaneswar,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,8B Jaydev Vihar Bhubaneswar,12000,25000
+H0402,P065,Hotel Swosti Premium Bhubaneswar,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,103 Janpath Bhubaneswar,6000,12000
+H0403,P065,Lemon Tree Hotel Bhubaneswar,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Jaydev Vihar Bhubaneswar,5000,10000
+H0404,P065,Zostel Bhubaneswar,3,₹700–₹2000,Budget,Yes,No,No,Yes,Bhubaneswar Town,700,2000
+H0405,P065,Hotel Presidency Bhubaneswar,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Raj Path Bhubaneswar,2500,5000
+H0406,P066,Konark Resort OTDC,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Konark Temple Road Konark,3000,6000
+H0407,P066,Labanya Lodge Konark,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Near Sun Temple Konark,2000,4000
+H0408,P066,Hotel Surya Konark,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Konark Temple Road Konark,2500,5000
+H0409,P066,Sun Temple View Resort Konark,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Konark Marine Drive Konark,3500,7000
+H0410,P067,Panthanivas Chilika Barkul,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Barkul Chilika Lake Odisha,2500,5000
+H0411,P067,Panthanivas Rambha,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Rambha Chilika Lake Odisha,2000,4000
+H0412,P067,Hotel Chilika Resort,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Barkul Chilika Odisha,3000,6000
+H0413,P067,Wild Grass Resort Chilika,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Satapada Chilika Odisha,3500,7000
+H0414,P067,OTDC Yatri Niwas Satapada,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Satapada Chilika Odisha,1500,3000
+H0415,P068,Maurya Patna,5,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,South Gandhi Maidan Patna,8000,16000
+H0416,P068,Hotel Chanakya Patna,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Beer Chand Patel Marg Patna,5000,10000
+H0417,P068,Lemon Tree Hotel Patna,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Fraser Road Patna,6000,12000
+H0418,P068,Hotel Patliputra Ashok,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Dak Bungalow Road Patna,3000,6000
+H0419,P068,Zostel Patna,3,₹700–₹2000,Budget,Yes,No,No,Yes,Fraser Road Patna,700,2000
+H0420,P068,Hotel Rajasthan Patna,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Exhibition Road Patna,2000,4000
+H0421,P069,Royal Residency Bodh Gaya,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,Bodh Gaya Temple Road Bodh Gaya,6000,12000
+H0422,P069,Hotel Sujata Bodh Gaya,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Siddharth Nagar Bodh Gaya,2500,5000
+H0423,P069,Bodh Gaya Regency,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Opposite Mahabodhi Temple Bodh Gaya,3000,6000
+H0424,P069,Hotel Lotus Nikko Bodh Gaya,4,₹5000–₹10000,Mid-range,Yes,Yes,Yes,Yes,Bodhgaya Road Bodh Gaya,5000,10000
+H0425,P069,Mahayana Guest House,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Near Mahabodhi Temple Bodh Gaya,1500,3000
+H0426,P069,Hotel Tathagat International,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Siddharth Nagar Bodh Gaya,2000,4000
+H0427,P070,Hotel Nalanda Regency,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Near Nalanda Ruins Nalanda,2500,5000
+H0428,P070,Hotel Siddharth Nalanda,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Nalanda Town Bihar,2000,4000
+H0429,P070,Hotel Pawan Nalanda,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Rajgir Road Nalanda,1500,3000
+H0430,P071,Hotel Digha Sands,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Old Digha Beach Road Digha,3000,6000
+H0431,P071,Hotel Sea Hawk Digha,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,New Digha Beach Road Digha,2500,5000
+H0432,P071,Hotel Tara Digha,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Old Digha Digha,2000,4000
+H0433,P071,WBTDC Tourist Lodge Digha,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,New Digha Digha,1500,3000
+H0434,P071,Hotel Coral Digha,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,New Digha Beach Digha,3500,7000
+H0435,P072,Hotel Bishnupur Tourist Lodge,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Station Road Bishnupur,2000,4000
+H0436,P072,WBTDC Youth Hostel Bishnupur,3,₹1000–₹2500,Budget,Yes,No,Yes,Yes,Bishnupur Town West Bengal,1000,2500
+H0437,P072,Hotel Malla Residency Bishnupur,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Bishnupur Town West Bengal,2500,5000
+H0438,P073,Mayfair Gangtok,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Palzor Stadium Road Gangtok Sikkim,15000,30000
+H0439,P073,Elgin Nor-Khill Gangtok,5,₹12000–₹25000,Luxury,Yes,Yes,Yes,Yes,Tibet Road Gangtok Sikkim,12000,25000
+H0440,P073,Hotel Sonam Delek Gangtok,3,₹3000–₹6000,Mid-range,Yes,Yes,No,Yes,Tibet Road Gangtok Sikkim,3000,6000
+H0441,P073,Zostel Gangtok,3,₹700–₹2000,Budget,Yes,No,No,Yes,MG Road Gangtok Sikkim,700,2000
+H0442,P073,Hotel Tashi Delek Gangtok,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,MG Marg Gangtok Sikkim,6000,12000
+H0443,P073,Netuk House Gangtok,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Tibet Road Gangtok Sikkim,7000,14000
+H0444,P073,Hotel Lhakpa Gangtok,3,₹2500–₹5000,Budget,Yes,No,No,Yes,NH 31A Gangtok Sikkim,2500,5000
+H0445,P074,Kalimpong Park Hotel,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Rinkingpong Road Kalimpong,8000,16000
+H0446,P074,Holumba Haven Kalimpong,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Rinkingpong Road Kalimpong,7000,14000
+H0447,P074,Hotel Silver Oaks Kalimpong,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Rinkingpong Road Kalimpong,3000,6000
+H0448,P074,Zostel Kalimpong,3,₹700–₹2000,Budget,Yes,No,No,Yes,Kalimpong Town,700,2000
+H0449,P074,Lodge Deki Kalimpong,3,₹2000–₹4000,Budget,Yes,No,No,Yes,Kalimpong Town West Bengal,2000,4000
+H0450,P075,Polo Towers Shillong,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Polo Road Shillong,7000,14000
+H0451,P075,Hotel Pinewood Shillong,4,₹6000–₹12000,Mid-range,Yes,Yes,Yes,Yes,European Ward Shillong,6000,12000
+H0452,P075,Ri Kynjai Shillong,5,₹15000–₹30000,Luxury,Yes,Yes,Yes,Yes,Umiam Lake Road Shillong,15000,30000
+H0453,P075,Zostel Shillong,3,₹700–₹2000,Budget,Yes,No,No,Yes,Police Bazar Shillong,700,2000
+H0454,P075,Hotel Centre Point Shillong,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,GS Road Shillong,3000,6000
+H0455,P075,Tripura Castle Shillong,4,₹8000–₹16000,Luxury,Yes,Yes,Yes,Yes,Cleve Colony Shillong,8000,16000
+H0456,P076,Cherrapunjee Holiday Resort,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Cherrapunji Village Meghalaya,7000,14000
+H0457,P076,Polo Orchid Resort Cherrapunji,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Cherrapunji Meghalaya,8000,16000
+H0458,P076,Conifer Valley Homestay Cherrapunji,3,₹2500–₹5000,Budget,Yes,Yes,Yes,Yes,Cherrapunji Meghalaya,2500,5000
+H0459,P076,Hotel Sohra Cherrapunji,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Sohra Cherrapunji Meghalaya,2000,4000
+H0460,P076,Zostel Cherrapunji,3,₹700–₹2000,Budget,Yes,No,No,Yes,Cherrapunji Meghalaya,700,2000
+H0461,P077,Diphlu River Lodge Kaziranga,5,₹20000–₹45000,Luxury,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,20000,45000
+H0462,P077,Iora The Retreat Kaziranga,5,₹18000–₹40000,Luxury,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,18000,40000
+H0463,P077,Borgos Resort Kaziranga,4,₹8000–₹16000,Mid-range,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,8000,16000
+H0464,P077,Infinity Resort Kaziranga,4,₹7000–₹14000,Mid-range,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,7000,14000
+H0465,P077,Wild Grass Lodge Kaziranga,4,₹9000–₹18000,Mid-range,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,9000,18000
+H0466,P077,Hotel Aranya Kaziranga,3,₹3000–₹6000,Budget,Yes,Yes,Yes,Yes,Kohora Kaziranga Assam,3000,6000
+H0467,P078,Mawlynnong Eco Huts,3,₹2500–₹5000,Budget,Yes,Yes,Yes,Yes,Mawlynnong Village Meghalaya,2500,5000
+H0468,P078,Mawlynnong Village Resort,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Mawlynnong Meghalaya,3000,6000
+H0469,P078,Nature View Homestay Mawlynnong,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Mawlynnong Village Meghalaya,2000,4000
+H0470,P079,Hotel Tawang,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Nehru Market Tawang Arunachal Pradesh,3000,6000
+H0471,P079,Tawang Inn,3,₹2500–₹5000,Budget,Yes,No,Yes,Yes,Main Market Tawang Arunachal Pradesh,2500,5000
+H0472,P079,Hotel Gakyi Khang Zhang,3,₹3500–₹7000,Mid-range,Yes,Yes,Yes,Yes,Tawang Town Arunachal Pradesh,3500,7000
+H0473,P079,Pemaling Guest House Tawang,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Tawang Town Arunachal Pradesh,2000,4000
+H0474,P079,Hotel Oyen Tawang,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Nehru Market Tawang Arunachal Pradesh,3000,6000
+H0475,P080,Hotel Ziro Valley,3,₹2500–₹5000,Mid-range,Yes,Yes,Yes,Yes,Hapoli Ziro Arunachal Pradesh,2500,5000
+H0476,P080,Pine Ridge Resort Ziro,3,₹3000–₹6000,Mid-range,Yes,Yes,Yes,Yes,Ziro Town Arunachal Pradesh,3000,6000
+H0477,P080,Homestay Ziro,3,₹1500–₹3000,Budget,Yes,No,Yes,Yes,Apatani Village Ziro Arunachal Pradesh,1500,3000
+H0478,P080,Hotel Blue Pine Ziro,3,₹2000–₹4000,Budget,Yes,No,Yes,Yes,Hapoli Ziro Arunachal Pradesh,2000,4000
